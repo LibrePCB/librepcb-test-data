@@ -1,0 +1,10 @@
+(librepcb_library d4bcce67-c940-47b2-b45c-cbc1d16cd054
+ (name "Empty Library")
+ (description "")
+ (keywords "")
+ (author "test")
+ (version "0.1")
+ (created 2013-04-13T12:43:52Z)
+ (deprecated false)
+ (url "")
+)
