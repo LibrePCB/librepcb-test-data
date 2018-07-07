@@ -1,0 +1,158 @@
+{
+  "count": 6,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uuid": "a9ddf0c6-9b1c-4730-b300-01b4f192ad40",
+      "format_version": "0.1",
+      "version": "0.0.1",
+      "author": "LibrePCB",
+      "deprecated": false,
+      "recommended": true,
+      "url": "https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib",
+      "zip_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip",
+      "zip_size": -1,
+      "zip_sha256": "",
+      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/raw/master/library.png",
+      "name": {
+        "en_US": "LibrePCB Base"
+      },
+      "description": {
+        "en_US": "Official LibrePCB Base Library"
+      },
+      "keywords": {
+        "en_US": ""
+      },
+      "dependencies": [
+      ]
+    },
+    {
+      "uuid": "6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6",
+      "format_version": "0.1",
+      "version": "0.0.1",
+      "author": "LibrePCB",
+      "deprecated": false,
+      "recommended": true,
+      "url": "https://github.com/LibrePCB-Libraries/LibrePCB_Connectors.lplib",
+      "zip_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Connectors.lplib/archive/master.zip",
+      "zip_size": -1,
+      "zip_sha256": "",
+      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Connectors.lplib/raw/master/library.png",
+      "name": {
+        "en_US": "LibrePCB Connectors"
+      },
+      "description": {
+        "en_US": "Official LibrePCB Connectors"
+      },
+      "keywords": {
+        "en_US": ""
+      },
+      "dependencies": [
+        "a9ddf0c6-9b1c-4730-b300-01b4f192ad40"
+      ]
+    },
+    {
+      "uuid": "326f091b-b715-44bf-b385-b613cd60d9f3",
+      "format_version": "0.1",
+      "version": "0.0.1",
+      "author": "LibrePCB",
+      "deprecated": false,
+      "recommended": true,
+      "url": "https://github.com/LibrePCB-Libraries/LibrePCB_ICs.lplib",
+      "zip_url": "https://github.com/LibrePCB-Libraries/LibrePCB_ICs.lplib/archive/master.zip",
+      "zip_size": -1,
+      "zip_sha256": "",
+      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_ICs.lplib/raw/master/library.png",
+      "name": {
+        "en_US": "LibrePCB Integrated Circuits"
+      },
+      "description": {
+        "en_US": "Official LibrePCB Integrated Circuits"
+      },
+      "keywords": {
+        "en_US": ""
+      },
+      "dependencies": [
+        "a9ddf0c6-9b1c-4730-b300-01b4f192ad40"
+      ]
+    },
+    {
+      "uuid": "ec301aa5-2955-462f-8987-2745b6a63c7c",
+      "format_version": "0.1",
+      "version": "0.0.1",
+      "author": "LibrePCB",
+      "deprecated": false,
+      "recommended": false,
+      "url": "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib",
+      "zip_url": "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib/archive/master.zip",
+      "zip_size": -1,
+      "zip_sha256": "",
+      "icon_url": "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib/raw/master/library.png",
+      "name": {
+        "en_US": "Isabellenhütte"
+      },
+      "description": {
+        "en_US": "Precision and power resistors"
+      },
+      "keywords": {
+        "en_US": ""
+      },
+      "dependencies": [
+        "a9ddf0c6-9b1c-4730-b300-01b4f192ad40"
+      ]
+    },
+    {
+      "uuid": "e3ce49bf-e959-4092-8b48-aeead756f8d1",
+      "format_version": "0.1",
+      "version": "0.0.1",
+      "author": "LibrePCB",
+      "deprecated": false,
+      "recommended": false,
+      "url": "https://github.com/LibrePCB-Libraries/Molex.lplib",
+      "zip_url": "https://github.com/LibrePCB-Libraries/Molex.lplib/archive/master.zip",
+      "zip_size": -1,
+      "zip_sha256": "",
+      "icon_url": "https://github.com/LibrePCB-Libraries/Molex.lplib/raw/master/library.png",
+      "name": {
+        "en_US": "Molex"
+      },
+      "description": {
+        "en_US": "Connectors, Sockets and more"
+      },
+      "keywords": {
+        "en_US": ""
+      },
+      "dependencies": [
+        "a9ddf0c6-9b1c-4730-b300-01b4f192ad40",
+        "6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6"
+      ]
+    },
+    {
+      "uuid": "1fcb0725-d2e8-4f5d-892c-d1efb44d2963",
+      "format_version": "0.1",
+      "version": "0.0.1",
+      "author": "LibrePCB",
+      "deprecated": false,
+      "recommended": false,
+      "url": "https://github.com/LibrePCB-Libraries/STMicroelectronics.lplib",
+      "zip_url": "https://github.com/LibrePCB-Libraries/STMicroelectronics.lplib/archive/master.zip",
+      "zip_size": -1,
+      "zip_sha256": "",
+      "icon_url": "https://github.com/LibrePCB-Libraries/STMicroelectronics.lplib/raw/master/library.png",
+      "name": {
+        "en_US": "ST Microelectronics"
+      },
+      "description": {
+        "en_US": "Integrated Circuits, Sensors and more"
+      },
+      "keywords": {
+        "en_US": ""
+      },
+      "dependencies": [
+        "a9ddf0c6-9b1c-4730-b300-01b4f192ad40",
+        "326f091b-b715-44bf-b385-b613cd60d9f3"
+      ]
+    }
+  ]
+}
