@@ -1,0 +1,12 @@
+(librepcb_library
+ (uuid a7cb5051-9f37-4500-be38-33eade6e621e)
+ (version "0.0.1")
+ (author "test")
+ (created 2016-09-28T21:48:03Z)
+ (modified 2016-09-28T21:48:03Z)
+ (deprecated false)
+ (name "Populated Library")
+ (description "Test library containing some elements")
+ (keywords "test,library,populated")
+ (url "https://github.com/LibrePCB/PopulatedLibrary.lplib")
+)
