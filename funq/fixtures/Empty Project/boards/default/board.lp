@@ -44,12 +44,12 @@
  )
 
  (polygon 40ef7939-0ab4-4e2b-87c8-3deee33853e5 (layer brd_outlines)
-  (width 0.0) (fill false) (grab false)
-  (vertex (pos 0.0 0.0) (angle 0.0))
-  (vertex (pos 160.0 0.0) (angle 0.0))
-  (vertex (pos 160.0 100.0) (angle 0.0))
-  (vertex (pos 0.0 100.0) (angle 0.0))
-  (vertex (pos 0.0 0.0) (angle 0.0))
+  (width 0.0) (fill false) (grab_area false)
+  (vertex (position 0.0 0.0) (angle 0.0))
+  (vertex (position 160.0 0.0) (angle 0.0))
+  (vertex (position 160.0 100.0) (angle 0.0))
+  (vertex (position 0.0 100.0) (angle 0.0))
+  (vertex (position 0.0 0.0) (angle 0.0))
  )
 
 )
