@@ -1,0 +1,13 @@
+# Pick&Place Position Data File
+#
+# Project Name:        test_project
+# Project Version:     v1
+# Board Name:          default
+# Generation Software:
+# Generation Date:
+# Unit:                mm
+# Rotation:            Degrees CCW
+# Board Side:          Bottom
+
+Designator,Value,Device,Package,Position X,Position Y,Rotation,Side
+D2,Hello,Demo Device,Demo Package,76.0,60.0,240.0,Bottom
