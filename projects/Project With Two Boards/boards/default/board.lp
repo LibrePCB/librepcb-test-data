@@ -41,6 +41,7 @@
   )
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
+  (gerber_x1_compatibility false)
  )
 
  (polygon 40ef7939-0ab4-4e2b-87c8-3deee33853e5 (layer brd_outlines)

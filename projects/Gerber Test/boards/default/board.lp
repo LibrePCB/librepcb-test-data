@@ -41,6 +41,7 @@
   )
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
+  (gerber_x1_compatibility false)
  )
 
  (device 2ff8e71f-6827-43fc-bb77-b3811c50493e
