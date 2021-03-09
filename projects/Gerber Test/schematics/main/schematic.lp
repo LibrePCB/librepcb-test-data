@@ -49,7 +49,7 @@
    (to (junction 3ef4b643-030c-40fc-b1f1-5a3133c1b719))
   )
   (label 31b38343-66c2-4aba-89f7-e852f7dc9f9c
-   (position 35.56 10.16) (rotation 90.0)
+   (position 35.56 10.16) (rotation 90.0) (mirror false)
   )
  )
  (netsegment 3a02a91a-e99d-4859-b899-547d1ac6e018
@@ -107,7 +107,7 @@
    (to (junction 383487a0-1f1e-4f00-a301-94d48cd5b616))
   )
   (label f9ef8b32-c4c7-45a7-abc3-d1792e449ef5
-   (position 0.0 55.88) (rotation 0.0)
+   (position 0.0 55.88) (rotation 0.0) (mirror false)
   )
  )
  (netsegment acf096ab-9c22-4b5a-86ec-1154a7f2d521
