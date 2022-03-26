@@ -42,7 +42,6 @@
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
-
  (polygon 40ef7939-0ab4-4e2b-87c8-3deee33853e5 (layer brd_outlines)
   (width 0.0) (fill false) (grab_area false)
   (vertex (position 0.0 0.0) (angle 0.0))
@@ -51,5 +50,4 @@
   (vertex (position 0.0 100.0) (angle 0.0))
   (vertex (position 0.0 0.0) (angle 0.0))
  )
-
 )

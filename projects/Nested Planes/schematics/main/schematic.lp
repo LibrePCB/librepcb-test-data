@@ -1,7 +1,6 @@
 (librepcb_schematic cc82aac8-dfaf-46c5-ac03-17942bf65bab
  (name "Main")
  (grid (type lines) (interval 2.54) (unit millimeters))
-
  (symbol 07e40473-bea6-4bcf-9f01-101deead48c3
   (component 16f29bbf-fc77-4eb2-a4ed-34a6a702f948)
   (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
@@ -47,7 +46,6 @@
   (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
   (position 40.64 5.08) (rotation 0.0) (mirror false)
  )
-
  (netsegment 022e346a-d365-4cc9-86fb-5f036c60903c
   (net 7897de49-ea8f-4ca2-b899-b97aa81e7ccc)
   (junction 57c5c4ff-5d43-4bc6-87e1-d3071caeb866 (position 10.16 5.08))
@@ -148,5 +146,4 @@
    (to (symbol 8b07a23d-fbde-4cff-85d3-1b5f88b66f11) (pin 2e4f8b10-ad5a-443e-b408-e183efaa4758))
   )
  )
-
 )

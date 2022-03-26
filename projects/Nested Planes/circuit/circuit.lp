@@ -1,7 +1,5 @@
 (librepcb_circuit
-
  (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d (name "default"))
-
  (net 260204c4-3409-4651-a290-c9be9abf45c8 (auto true) (name "N3")
   (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d)
  )
@@ -20,7 +18,6 @@
  (net f2320938-11f1-40a0-9989-32e545994a98 (auto true) (name "N4")
   (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d)
  )
-
  (component 0b4738db-549d-48ea-8ddd-89f5d7c39f2b
   (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)
   (lib_variant a5995314-f535-45d4-8bd8-2d0b8a0dc42a)
@@ -98,5 +95,4 @@
   (name "SUP1") (value "GND")
   (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 7897de49-ea8f-4ca2-b899-b97aa81e7ccc))
  )
-
 )

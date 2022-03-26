@@ -42,7 +42,6 @@
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
-
  (device 2ff8e71f-6827-43fc-bb77-b3811c50493e
   (lib_device 4f5ee784-4b1b-407c-802b-44625163d90f)
   (lib_footprint ba016c66-62a0-431c-ad8f-d92070b663a5)
@@ -83,7 +82,6 @@
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
  )
-
  (netsegment 47253560-ce04-43e1-98b1-f98d1609f44e
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
   (via a06f5e1b-37d1-4d5b-aedd-9d8036563ebd
@@ -153,7 +151,6 @@
    (position 12.0 46.0) (size 2.0) (drill 1.0) (shape round)
   )
  )
-
  (plane 1a5ff7bc-9ba0-45db-9279-f0e0da1e36ff (layer bot_cu)
   (net 4f54beab-a0ae-4532-9e88-cf2928c534a3) (priority 0)
   (min_width 0.2) (min_clearance 0.3) (keep_orphans false)
@@ -192,7 +189,6 @@
   (vertex (position 33.0 31.0) (angle 0.0))
   (vertex (position 30.0 41.0) (angle 0.0))
  )
-
  (polygon 43da2716-9804-42ee-a341-b86ebdf4f0a7 (layer top_placement)
   (width 2.0) (fill false) (grab_area false)
   (vertex (position 49.0 79.0) (angle 0.0))
@@ -223,9 +219,7 @@
   (vertex (position -24.0 79.0) (angle 190.0))
   (vertex (position 0.0 0.0) (angle 0.0))
  )
-
  (hole 024d592e-e2be-4cf9-bd10-20a8a0c59a1f (diameter 2.0) (position 48.0 20.0))
  (hole 5b218fd7-b09d-4b4d-921a-1f33e9b39cb6 (diameter 2.0) (position -19.0 45.0))
  (hole a255609a-aa41-47c6-b24f-24a78299d59f (diameter 2.0) (position 56.0 73.0))
-
 )

@@ -1,7 +1,5 @@
 (librepcb_circuit
-
  (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d (name "default"))
-
  (net 4f54beab-a0ae-4532-9e88-cf2928c534a3 (auto false) (name "FOO")
   (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d)
  )
@@ -17,7 +15,6 @@
  (net e8d073d9-5595-47d4-b821-32bb008d38af (auto false) (name "Hello")
   (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d)
  )
-
  (component 2ff8e71f-6827-43fc-bb77-b3811c50493e
   (lib_component 45022bef-9310-4aa2-92ef-acec1b95aa4e)
   (lib_variant 33ab3786-b0b4-426b-9177-44b103f272ab)
@@ -60,5 +57,4 @@
   (name "VCC1") (value "VCC")
   (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 8643d8d7-00f2-4e29-b3c9-7ed2671508cb))
  )
-
 )

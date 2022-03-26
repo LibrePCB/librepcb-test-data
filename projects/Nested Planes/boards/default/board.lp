@@ -42,7 +42,6 @@
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
-
  (device 0b4738db-549d-48ea-8ddd-89f5d7c39f2b
   (lib_device 79eb53e3-c7a6-4244-9047-51e42bdae9b9)
   (lib_footprint 563d94d0-c247-496f-9686-207d14c8c660)
@@ -148,7 +147,6 @@
    (auto_rotate true) (mirror false) (value "{{NAME}}")
   )
  )
-
  (netsegment 06095099-0b7c-4a63-9b73-00194ee2b03f
   (net 260204c4-3409-4651-a290-c9be9abf45c8)
   (via 4542f9e3-1d5f-44f4-9c2d-42bf5c40f161
@@ -370,7 +368,6 @@
    (position 30.0 10.0) (size 4.0) (drill 2.0) (shape square)
   )
  )
-
  (plane 007538f6-59ce-46d9-8a1f-f4b5cf3c73a7 (layer top_cu)
   (net 693ca327-06b3-4b22-98a3-1de2d808e8c3) (priority 1)
   (min_width 2.0) (min_clearance 1.0) (keep_orphans false)
@@ -434,7 +431,6 @@
   (vertex (position 92.0 48.0) (angle 0.0))
   (vertex (position 14.0 48.0) (angle 0.0))
  )
-
  (polygon fa5a340f-8378-43ea-818a-d1a2a3f00cdc (layer brd_outlines)
   (width 0.0) (fill false) (grab_area false)
   (vertex (position 0.0 0.0) (angle 0.0))
@@ -443,7 +439,6 @@
   (vertex (position 0.0 100.0) (angle 0.0))
   (vertex (position 0.0 0.0) (angle 0.0))
  )
-
  (stroke_text 17b7e379-4c2d-400e-a14b-525e9cafefc8 (layer brd_documentation)
   (height 1.5) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
   (align left bottom) (position 102.0 -2.0) (rotation 0.0)
@@ -504,5 +499,4 @@
   (align left bottom) (position -2.0 -2.0) (rotation 0.0)
   (auto_rotate true) (mirror false) (value "4")
  )
-
 )
