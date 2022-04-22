@@ -9,6 +9,8 @@
  (category adf8d941-787c-4b02-8772-fbc0a587463d)
  (pin abcc319b-d09f-437b-a624-3dcf3eff5792 (name "NET")
   (position 0.0 2.54) (rotation -90.0) (length 2.54)
+  (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
+  (name_align left center)
  )
  (polygon 60b938fc-55fa-4905-a2bf-66a130c81057 (layer sym_outlines)
   (width 0.3) (fill false) (grab_area false)
