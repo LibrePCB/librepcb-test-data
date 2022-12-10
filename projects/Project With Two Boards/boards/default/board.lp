@@ -38,6 +38,7 @@
    (suffix_pth "_DRILLS-PTH.drl")
    (suffix_npth "_DRILLS-NPTH.drl")
    (suffix_merged "_DRILLS.drl")
+   (g85_slots false)
   )
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
