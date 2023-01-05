@@ -1,0 +1,37 @@
+C  IPC-D-356A Netlist
+C  
+C  Project Name:        test_project
+C  Project Version:     v1
+C  Board Name:          default
+C  Generation Software:
+C  Generation Date:
+C  
+C  Note that due to limitations of this file format, LibrePCB
+C  applies the following operations during the export:
+C    - suffix net names with unique numbers within braces
+C    - truncate long net names (uniqueness guaranteed by suffix)
+C    - truncate long component names (uniqueness not guaranteed)
+C    - truncate long pad names (uniqueness not guaranteed)
+C    - clip drill/pad sizes to 9.999mm
+C  
+P  UNITS CUST 1
+317GND{1}           VIA        MD1000PA00X+016000Y+046000X2000Y2000R000 S0
+317GND{1}           VIA        MD1000PA00X+020000Y+046000X2000Y2000R000 S0
+317GND{1}           VIA        MD1000PA00X+012000Y+046000X2000Y2000R000 S0
+317N/C              D2    -4    D0800PA00X+060013Y+041971X2540Y1270R280 S0
+317N3{3}            D2    -2    D0800PA00X+055613Y+039431X2540Y1270R300 S0
+327Hello{4}         D2    -7          A02X+062893Y+031902X2000Y1000R280 S1
+327N/C              D2    -5          A02X+058494Y+029362X2000Y1000R300 S1
+327N/C              D2    -8          A01X+065093Y+033172X2000Y1000R280 S2
+317N3{3}            D2    -1    D0800PA00X+053414Y+038161X2540Y1270R300 S0
+317GND{1}           D2    -3    D1200PA00X+057813Y+040701X2000Y3000R320 S0
+327Hello{4}         D2    -6          A02X+060693Y+030632X2000Y1000R210 S1
+317N3{3}            D1    -4    D0800PA00X-000620Y+039140X2540Y1270R200 S0
+317N/C              D1    -2    D0800PA00X-000620Y+034060X2540Y1270R180 S0
+327FOO{5}           D1    -7          A01X-010780Y+036600X2000Y1000R200 S2
+327N/C              D1    -5          A01X-010780Y+031520X2000Y1000R180 S2
+327Hello{4}         D1    -8          A02X-010780Y+039140X2000Y1000R200 S1
+317FOO{5}           D1    -1    D0800PA00X-000620Y+031520X2540Y1270R180 S0
+317VCC{6}           D1    -3    D1200PA00X-000620Y+036600X2000Y3000R160 S0
+327FOO{5}           D1    -6          A01X-010780Y+034060X2000Y1000R270 S2
+999
