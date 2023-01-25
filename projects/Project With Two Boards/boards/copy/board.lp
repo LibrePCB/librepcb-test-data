@@ -1,7 +1,7 @@
 (librepcb_board 58fde8f0-436a-4f60-aa3f-d1b23c316b10
  (name "copy")
  (default_font "newstroke.bene")
- (grid (type lines) (interval 2.54) (unit millimeters))
+ (grid (interval 2.54) (unit millimeters))
  (layers (inner 0))
  (design_rules
   (name "LibrePCB Default Design Rules")

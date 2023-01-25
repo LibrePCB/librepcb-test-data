@@ -1,7 +1,7 @@
 (librepcb_board 25ec13ab-c212-43bb-bcdc-3544bf210e3b
  (name "default")
  (default_font "newstroke.bene")
- (grid (type lines) (interval 2.54) (unit millimeters))
+ (grid (interval 2.54) (unit millimeters))
  (layers (inner 0))
  (design_rules
   (name "LibrePCB Default Design Rules")

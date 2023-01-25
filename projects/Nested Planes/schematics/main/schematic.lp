@@ -1,6 +1,6 @@
 (librepcb_schematic cc82aac8-dfaf-46c5-ac03-17942bf65bab
  (name "Main")
- (grid (type lines) (interval 2.54) (unit millimeters))
+ (grid (interval 2.54) (unit millimeters))
  (symbol 07e40473-bea6-4bcf-9f01-101deead48c3
   (component 16f29bbf-fc77-4eb2-a4ed-34a6a702f948)
   (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
