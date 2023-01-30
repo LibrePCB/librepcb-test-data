@@ -43,5 +43,6 @@ def update_projects():
 
 if __name__ == "__main__":
     os.environ['LIBREPCB_DISABLE_UNSTABLE_WARNING'] = '1'
+    os.environ['LIBREPCB_UPGRADE_UNSTABLE'] = '1'
     update_libraries()
     update_projects()
