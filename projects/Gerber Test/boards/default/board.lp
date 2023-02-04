@@ -7,7 +7,7 @@
   (stopmask_max_via_drill_diameter 0.5)
   (stopmask_clearance (ratio 0.0) (min 0.1) (max 0.1))
   (solderpaste_clearance (ratio 0.1) (min 0.0) (max 1.0))
-  (pad_annular_ring (ratio 0.25) (min 0.25) (max 2.0))
+  (pad_annular_ring (outer full) (inner full) (ratio 0.25) (min 0.25) (max 2.0))
   (via_annular_ring (ratio 0.25) (min 0.2) (max 2.0))
  )
  (fabrication_output_settings
