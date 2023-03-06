@@ -22,6 +22,7 @@
   (min_pth_slot_width 0.7)
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
+  (approvals_version "0.2")
  )
  (fabrication_output_settings
   (base_path "./output/{{VERSION}}/gerber/{{PROJECT}}")
