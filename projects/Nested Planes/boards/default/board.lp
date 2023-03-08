@@ -15,6 +15,8 @@
   (min_copper_copper_clearance 0.2)
   (min_copper_board_clearance 0.3)
   (min_copper_npth_clearance 0.2)
+  (min_drill_drill_clearance 0.35)
+  (min_drill_board_clearance 0.5)
   (min_annular_ring 0.15)
   (min_npth_drill_diameter 0.25)
   (min_pth_drill_diameter 0.25)
