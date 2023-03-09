@@ -22,6 +22,7 @@
   (min_pth_drill_diameter 0.25)
   (min_npth_slot_width 1.0)
   (min_pth_slot_width 0.7)
+  (min_outline_tool_diameter 2.0)
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
   (approvals_version "0.2")
