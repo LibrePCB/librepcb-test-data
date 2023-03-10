@@ -7,6 +7,7 @@
  (created 2015-12-20T22:10:44Z)
  (deprecated false)
  (category 13444388-0f37-4369-99ad-cf470bcb85b5)
+ (assembly_type auto)
  (pad 474059df-640b-4b17-98b2-148e340a7152 (name "3"))
  (pad 97a4a131-50d6-43b7-b729-bc444ad0e244 (name "PAD"))
  (pad ab077e0e-67ff-48c0-b979-66c9ccc6b90f (name "2"))

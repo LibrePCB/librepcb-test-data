@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2015-12-20T22:10:46Z)
  (deprecated false)
+ (assembly_type auto)
  (pad b51307ce-0811-472d-a861-a27a11a2a5ac (name "1"))
  (pad e23a4019-32f3-401a-a8d7-b3f6ce2ed606 (name "2"))
  (footprint 2901d0f1-b5b9-4beb-a6b4-788c479cfbec
