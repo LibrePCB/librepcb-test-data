@@ -1,3 +1,3 @@
 Designator,Value,Device,Package,Position X,Position Y,Rotation,Side,Type
-D1,Hello,Demo Device,Demo Package,7.0,62.0,180.0,Top,THT
-D2,Hello,Demo Device,Demo Package,76.0,60.0,240.0,Bottom,THT
+D1,Hello,Demo Device,Demo Package,7.0,62.0,180.0,Top,THT+SMT
+D2,Hello,Demo Device,Demo Package,76.0,60.0,240.0,Bottom,THT+SMT
