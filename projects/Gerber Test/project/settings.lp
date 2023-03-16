@@ -4,4 +4,6 @@
  )
  (library_norm_order
  )
+ (custom_bom_attributes
+ )
 )
