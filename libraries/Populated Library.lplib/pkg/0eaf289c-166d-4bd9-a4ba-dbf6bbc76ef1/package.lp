@@ -12,10 +12,12 @@
  (pad 97a4a131-50d6-43b7-b729-bc444ad0e244 (name "PAD"))
  (pad ab077e0e-67ff-48c0-b979-66c9ccc6b90f (name "2"))
  (pad dff54bfb-5db6-4934-9282-29dd73df5aec (name "1"))
+ (3d_model 4e198b4d-b61a-47bd-a7ad-39b2f6dc77e9 (name "default"))
  (footprint 058161b2-c181-4df4-b658-ca960e140836
   (name "Vertical")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 4e198b4d-b61a-47bd-a7ad-39b2f6dc77e9)
   (pad 474059df-640b-4b17-98b2-148e340a7152 (side top) (shape roundrect)
    (position 2.54 0.0) (rotation 90.0) (size 4.064 2.032) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)
