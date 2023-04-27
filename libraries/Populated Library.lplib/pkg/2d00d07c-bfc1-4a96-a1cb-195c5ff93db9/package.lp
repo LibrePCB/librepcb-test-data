@@ -13,6 +13,7 @@
  (footprint 75d2f5cb-4920-4f04-a83d-21bd28174f10
   (name "default")
   (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 79ee45af-e972-4d1d-8866-88585eb544f9 (side top) (shape roundrect)
    (position 0.95 0.0) (rotation 0.0) (size 1.3 1.5) (radius 0.0)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function unspecified)

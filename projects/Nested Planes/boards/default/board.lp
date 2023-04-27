@@ -54,6 +54,7 @@
  (device 0b4738db-549d-48ea-8ddd-89f5d7c39f2b
   (lib_device 79eb53e3-c7a6-4244-9047-51e42bdae9b9)
   (lib_footprint 563d94d0-c247-496f-9686-207d14c8c660)
+  (lib_3d_model none)
   (position 80.0 76.0) (rotation 0.0) (flip false) (lock false)
   (stroke_text 846443c7-1f77-4736-bb95-7cc472f3af4e (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
@@ -69,6 +70,7 @@
  (device 16f29bbf-fc77-4eb2-a4ed-34a6a702f948
   (lib_device 79eb53e3-c7a6-4244-9047-51e42bdae9b9)
   (lib_footprint 563d94d0-c247-496f-9686-207d14c8c660)
+  (lib_3d_model none)
   (position 76.0 70.0) (rotation 0.0) (flip false) (lock false)
   (stroke_text 846443c7-1f77-4736-bb95-7cc472f3af4e (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
@@ -84,6 +86,7 @@
  (device 21a46822-02ab-4a08-94ce-d83bf6d6c052
   (lib_device ef4ef82a-2862-4504-8098-c45f3110be95)
   (lib_footprint 4b6bb1f7-1541-413e-bd6e-9c623d255168)
+  (lib_3d_model none)
   (position 20.0 12.0) (rotation 0.0) (flip false) (lock false)
   (stroke_text 374e9065-351a-4e8d-b090-03df1226af25 (layer top_values)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
@@ -99,6 +102,7 @@
  (device 2fea0918-814e-402d-8d32-ad012ca4e375
   (lib_device 79eb53e3-c7a6-4244-9047-51e42bdae9b9)
   (lib_footprint 563d94d0-c247-496f-9686-207d14c8c660)
+  (lib_3d_model none)
   (position 40.0 70.0) (rotation 0.0) (flip false) (lock false)
   (stroke_text 846443c7-1f77-4736-bb95-7cc472f3af4e (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
@@ -114,6 +118,7 @@
  (device 3538b88b-f9c4-4f79-8d46-40e18644d3ee
   (lib_device ea8c95cc-97a6-4bfa-907f-20dc3ccaa145)
   (lib_footprint 2901d0f1-b5b9-4beb-a6b4-788c479cfbec)
+  (lib_3d_model none)
   (position 24.0 30.0) (rotation 0.0) (flip false) (lock false)
   (stroke_text 471e38cd-d321-45ca-8d5f-a1d315c603fb (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
@@ -129,6 +134,7 @@
  (device 37190679-72c0-4297-9807-e966d29e8e79
   (lib_device 13bd443e-054f-423c-b8ad-24e5834a28e4)
   (lib_footprint 60efc22e-1875-4e13-bc5f-17462781ae1e)
+  (lib_3d_model none)
   (position 24.0 22.0) (rotation 0.0) (flip false) (lock false)
   (stroke_text 0db1591b-90d7-450e-8cb0-eab50ff154d8 (layer top_values)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
@@ -144,6 +150,7 @@
  (device 5b8dbd5d-b987-4a1a-af71-3e5270a75653
   (lib_device a6a6744d-7d3b-450a-b782-feca43939ca5)
   (lib_footprint 95e55ff1-3db6-46b2-8319-0d0a7420d15f)
+  (lib_3d_model none)
   (position 24.0 38.0) (rotation 0.0) (flip false) (lock false)
   (stroke_text 7978bbc3-5e3b-4a0c-adc0-af6db5469486 (layer top_values)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)

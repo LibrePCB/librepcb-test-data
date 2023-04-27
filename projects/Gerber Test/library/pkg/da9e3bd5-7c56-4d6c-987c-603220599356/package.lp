@@ -19,6 +19,7 @@
  (footprint ba016c66-62a0-431c-ad8f-d92070b663a5
   (name "default")
   (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad d7002950-4d24-42bf-8aa4-f17b2e1e9559 (side top) (shape roundrect)
    (position 7.62 30.48) (rotation 0.0) (size 2.54 1.27) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)
@@ -191,6 +192,7 @@
  (footprint 8bff48d0-b26f-430b-979f-c6eb755a342a
   (name "alternative")
   (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad d7002950-4d24-42bf-8aa4-f17b2e1e9559 (side top) (shape roundrect)
    (position 7.62 30.48) (rotation 0.0) (size 2.54 1.27) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)

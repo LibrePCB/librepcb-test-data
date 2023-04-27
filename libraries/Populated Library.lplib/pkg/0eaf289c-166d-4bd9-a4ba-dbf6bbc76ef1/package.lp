@@ -15,6 +15,7 @@
  (footprint 058161b2-c181-4df4-b658-ca960e140836
   (name "Vertical")
   (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 474059df-640b-4b17-98b2-148e340a7152 (side top) (shape roundrect)
    (position 2.54 0.0) (rotation 90.0) (size 4.064 2.032) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)
@@ -145,6 +146,7 @@
  (footprint fbe8885e-f1e7-4f31-912d-e26af408c66a
   (name "Horizontal")
   (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 474059df-640b-4b17-98b2-148e340a7152 (side top) (shape roundrect)
    (position 2.54 0.0) (rotation 90.0) (size 4.4704 2.2352) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)

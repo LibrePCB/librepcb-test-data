@@ -12,6 +12,7 @@
  (footprint 2901d0f1-b5b9-4beb-a6b4-788c479cfbec
   (name "default")
   (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad b51307ce-0811-472d-a861-a27a11a2a5ac (side top) (shape octagon)
    (position -5.08 0.0) (rotation 0.0) (size 1.6256 1.6256) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)
