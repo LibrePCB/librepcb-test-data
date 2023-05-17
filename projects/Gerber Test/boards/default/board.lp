@@ -28,6 +28,8 @@
   (min_npth_slot_width 1.0)
   (min_pth_slot_width 0.7)
   (min_outline_tool_diameter 2.0)
+  (blind_vias_allowed false)
+  (buried_vias_allowed false)
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
   (approvals_version "0.2")
@@ -46,6 +48,7 @@
    (suffix_pth "_DRILLS-PTH.drl")
    (suffix_npth "_DRILLS-NPTH.drl")
    (suffix_merged "_DRILLS.drl")
+   (suffix_buried "_DRILLS-PLATED-{{START_LAYER}}-{{END_LAYER}}.drl")
    (g85_slots false)
   )
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
@@ -95,7 +98,7 @@
  )
  (netsegment 47253560-ce04-43e1-98b1-f98d1609f44e
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
-  (via a06f5e1b-37d1-4d5b-aedd-9d8036563ebd
+  (via a06f5e1b-37d1-4d5b-aedd-9d8036563ebd (from top_cu) (to bot_cu)
    (position 16.0 46.0) (size 2.0) (drill 1.0)
   )
  )
@@ -128,7 +131,7 @@
  )
  (netsegment b01f2706-c983-4c8e-bc1a-89989c84f30a
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
-  (via 329fbf7f-b35c-475e-8bb5-a6de3366bac8
+  (via 329fbf7f-b35c-475e-8bb5-a6de3366bac8 (from top_cu) (to bot_cu)
    (position 20.0 46.0) (size 2.0) (drill 1.0)
   )
   (junction 06886bca-965b-4ce7-adf5-3430ac34a0a9 (position 20.0 51.0))
@@ -158,7 +161,7 @@
  )
  (netsegment ded1a2a9-96dc-4a52-a361-f0f8ae7a7eba
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
-  (via 2c2f0e85-ee80-434b-b4e9-77bbe97e96f8
+  (via 2c2f0e85-ee80-434b-b4e9-77bbe97e96f8 (from top_cu) (to bot_cu)
    (position 12.0 46.0) (size 2.0) (drill 1.0)
   )
  )
