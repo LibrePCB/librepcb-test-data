@@ -34,7 +34,7 @@
    (vertex (position -1.27 0.0) (angle 0.0))
    (vertex (position 1.27 0.0) (angle 0.0))
   )
-  (polygon 0a8c1b7c-e846-4032-a608-adbe9aaa0e66 (layer top_placement)
+  (polygon 0a8c1b7c-e846-4032-a608-adbe9aaa0e66 (layer top_legend)
    (width 0.508) (fill false) (grab_area true)
    (vertex (position -0.127 0.0) (angle 0.0))
    (vertex (position 0.127 0.0) (angle 0.0))

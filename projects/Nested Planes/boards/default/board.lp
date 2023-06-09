@@ -6,8 +6,8 @@
  (thickness 1.6)
  (solder_resist green)
  (silkscreen white)
- (silkscreen_layers_top top_placement top_names)
- (silkscreen_layers_bot bot_placement bot_names)
+ (silkscreen_layers_top top_legend top_names)
+ (silkscreen_layers_bot bot_legend bot_names)
  (design_rules
   (stopmask_max_via_drill_diameter 0.5)
   (stopmask_clearance (ratio 0.0) (min 0.1) (max 0.1))

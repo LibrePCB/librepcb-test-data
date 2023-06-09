@@ -23,7 +23,7 @@
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function unspecified)
    (package_pad 5878ed56-0ebc-4ff7-8501-0208f261babe)
   )
-  (polygon f5b0c7db-9df7-4931-9a3e-e4118c4dc28c (layer top_placement)
+  (polygon f5b0c7db-9df7-4931-9a3e-e4118c4dc28c (layer top_legend)
    (width 0.2032) (fill false) (grab_area true)
    (vertex (position 8.65 3.375) (angle 0.0))
    (vertex (position 8.65 -3.375) (angle 0.0))
