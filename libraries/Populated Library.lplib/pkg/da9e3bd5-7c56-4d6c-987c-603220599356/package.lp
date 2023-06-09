@@ -134,7 +134,7 @@
    (vertex (position 12.7 27.94) (angle 0.0))
    (vertex (position 10.16 25.4) (angle 0.0))
   )
-  (polygon 5620997b-273b-456c-b43d-cb92f18590dd (layer brd_outlines)
+  (polygon 5620997b-273b-456c-b43d-cb92f18590dd (layer brd_cutouts)
    (width 0.0) (fill false) (grab_area false)
    (vertex (position 17.78 38.1) (angle 80.0))
    (vertex (position 15.24 35.56) (angle -100.0))

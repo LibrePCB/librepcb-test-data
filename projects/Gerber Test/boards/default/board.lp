@@ -212,7 +212,7 @@
   (vertex (position 49.0 64.0) (angle 20.0))
   (vertex (position 49.0 79.0) (angle 0.0))
  )
- (polygon 54135420-ecb1-464a-85db-9b6b6c7e55bf (layer brd_outlines)
+ (polygon 54135420-ecb1-464a-85db-9b6b6c7e55bf (layer brd_cutouts)
   (width 0.0) (fill false) (grab_area false) (lock false)
   (vertex (position 28.0 33.0) (angle 0.0))
   (vertex (position 28.0 33.0) (angle 0.0))
