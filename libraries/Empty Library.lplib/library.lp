@@ -7,4 +7,5 @@
  (created 2013-04-13T12:43:52Z)
  (deprecated false)
  (url "")
+ (manufacturer "")
 )
