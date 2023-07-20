@@ -6,4 +6,5 @@
  )
  (custom_bom_attributes
  )
+ (default_lock_component_assembly false)
 )
