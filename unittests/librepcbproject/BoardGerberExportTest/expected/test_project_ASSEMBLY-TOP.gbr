@@ -53,7 +53,6 @@ D11*
 G04 #@! TO.C,D1*
 G04 #@! TO.CVal,Hello*
 G04 #@! TO.CMnt,TH*
-G04 #@! TO.CMPN,Demo Device*
 G04 #@! TO.CFtp,Demo Package*
 G04 #@! TO.CRot,180.0*
 X7000000Y62000000D03*
