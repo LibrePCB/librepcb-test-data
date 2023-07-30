@@ -8,7 +8,7 @@
 # Unit:                mm
 # Rotation:            Degrees CCW
 # Board Side:          Top
-# Supported Types:     THT, SMT, THT+SMT, Fiducial, Other
+# Assembly Types:      THT, SMT, THT+SMT, Fiducial, Other
 
 Designator,Value,Device,Package,Position X,Position Y,Rotation,Side,Type
 D1,Hello,Demo Device,Demo Package,7.0,62.0,180.0,Top,THT+SMT
