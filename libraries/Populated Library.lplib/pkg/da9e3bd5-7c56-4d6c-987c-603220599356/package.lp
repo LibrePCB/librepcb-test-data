@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2019-08-29T19:38:41Z)
  (deprecated false)
+ (generated_by "")
  (category 1d2630f1-c375-49f0-a0dc-2446735d82f4)
  (assembly_type auto)
  (pad d7002950-4d24-42bf-8aa4-f17b2e1e9559 (name "1"))

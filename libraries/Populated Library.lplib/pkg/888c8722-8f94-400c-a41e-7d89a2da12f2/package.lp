@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2015-12-20T22:10:35Z)
  (deprecated false)
+ (generated_by "")
  (assembly_type auto)
  (pad 08057c6a-86af-474d-955d-7a966c7f73de (name "G"))
  (pad 58eea0cf-9ed7-441d-8e14-6a7ef016edc9 (name "S"))

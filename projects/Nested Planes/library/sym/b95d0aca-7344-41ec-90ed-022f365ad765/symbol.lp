@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2015-03-01T20:00:00Z)
  (deprecated false)
+ (generated_by "")
  (category 00000000-0000-4001-8000-000000000000)
  (pin 771c2d8b-e4ad-487b-bcb1-fe2bc10c8a03 (name "VCC")
   (position 0.0 -2.54) (rotation 90.0) (length 2.54)

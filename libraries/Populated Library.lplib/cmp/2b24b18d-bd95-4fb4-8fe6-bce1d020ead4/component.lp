@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2015-03-08T16:21:14Z)
  (deprecated false)
+ (generated_by "")
  (category 70421345-ae1d-4fed-aa60-e7619524b97f)
  (schematic_only false)
  (default_value "{{COLOR}}")

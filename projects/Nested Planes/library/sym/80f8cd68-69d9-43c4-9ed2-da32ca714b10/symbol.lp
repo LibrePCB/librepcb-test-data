@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2015-03-01T20:00:00Z)
  (deprecated false)
+ (generated_by "")
  (category 00000000-0000-4001-8000-000000000000)
  (pin abcc319b-d09f-437b-a624-3dcf3eff5792 (name "GND")
   (position 0.0 2.54) (rotation -90.0) (length 2.54)

@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2015-03-01T20:00:00Z)
  (deprecated false)
+ (generated_by "")
  (category b3adfa1e-b878-44f6-902a-14ef3dad7a14)
  (pin 06d55f94-1316-48cb-a20f-0d4231eced31 (name "1")
   (position -5.08 0.0) (rotation 0.0) (length 2.0)
