@@ -60,7 +60,7 @@
    (vertex (position -0.1001 -0.4001) (angle 0.0))
   )
   (polygon 68ede30e-7f95-4743-b93c-77a0d86583a7 (layer top_courtyard)
-   (width 0.0508) (fill false) (grab_area true)
+   (width 0.0) (fill false) (grab_area true)
    (vertex (position 1.973 0.983) (angle 0.0))
    (vertex (position 1.973 -0.983) (angle 0.0))
    (vertex (position -1.973 -0.983) (angle 0.0))
