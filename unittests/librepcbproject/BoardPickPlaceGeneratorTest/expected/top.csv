@@ -12,3 +12,6 @@
 
 Designator,Value,Device,Package,Position X,Position Y,Rotation,Side,Type
 D1,Hello,Demo Device,Demo Package,7.0,62.0,180.0,Top,THT+SMT
+D1:1,Hello,Demo Device,Demo Package,-0.62,34.06,180.0,Top,Fiducial
+D1:3,Hello,Demo Device,Demo Package,-10.78,36.6,200.0,Top,Fiducial
+D2:1,DEMO1,Demo Device,Demo Package,55.61325,39.430886,240.0,Top,Fiducial

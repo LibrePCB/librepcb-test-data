@@ -11,4 +11,7 @@
 # Assembly Types:      THT, SMT, THT+SMT, Fiducial, Other
 
 Designator,Value,Device,Package,Position X,Position Y,Rotation,Side,Type
-D2,Hello,Demo Device,Demo Package,76.0,60.0,240.0,Bottom,THT+SMT
+D1:2,Hello,Demo Device,Demo Package,-0.62,34.06,180.0,Bottom,Fiducial
+D2,DEMO1,Demo Device,Demo Package,76.0,60.0,240.0,Bottom,THT+SMT
+D2:2,DEMO1,Demo Device,Demo Package,55.61325,39.430886,240.0,Bottom,Fiducial
+D2:3,DEMO1,Demo Device,Demo Package,62.892955,31.902068,260.0,Bottom,Fiducial
