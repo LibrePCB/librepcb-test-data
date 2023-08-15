@@ -7,5 +7,5 @@
  (created 2016-09-28T21:48:03Z)
  (deprecated false)
  (url "https://github.com/LibrePCB/PopulatedLibrary.lplib")
- (manufacturer "")
+ (manufacturer "Demo Manufacturer")
 )

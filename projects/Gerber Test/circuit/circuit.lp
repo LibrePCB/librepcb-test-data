@@ -25,6 +25,12 @@
   (lock_assembly false)
   (device 4f5ee784-4b1b-407c-802b-44625163d90f
    (variant 34ce99d2-d946-43c5-a01b-80a9f9463716)
+   (part "DEMO1" (manufacturer "MANU1")
+    (attribute "KEY" (type string) (unit none) (value "VALUE1"))
+   )
+   (part "DEMO2" (manufacturer "")
+    (attribute "KEY" (type string) (unit none) (value "VALUE2"))
+   )
   )
   (signal 0b033e8d-402b-4268-bac4-b99dec1480d9 (net dd05a304-c62b-4aa9-8c3c-d768a664393f))
   (signal 27039658-f341-4630-aba4-b518541bc729 (net 7206f5f5-6a05-4801-8fbb-61335a458975))

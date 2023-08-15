@@ -60,7 +60,7 @@
  (device 2ff8e71f-6827-43fc-bb77-b3811c50493e
   (lib_device 4f5ee784-4b1b-407c-802b-44625163d90f)
   (lib_footprint ba016c66-62a0-431c-ad8f-d92070b663a5)
-  (lib_3d_model none)
+  (lib_3d_model fe1b1444-771b-4bbc-b9c1-ec5317a77e17)
   (position 76.0 60.0) (rotation 120.0) (flip true) (lock false)
   (stroke_text 364f6908-f3ba-40c5-8fe0-912d22744ef1 (layer bot_cu)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
@@ -81,7 +81,7 @@
  (device 8fda8ea8-009a-4dfd-b4df-0be8cca21b5a
   (lib_device 4f5ee784-4b1b-407c-802b-44625163d90f)
   (lib_footprint ba016c66-62a0-431c-ad8f-d92070b663a5)
-  (lib_3d_model none)
+  (lib_3d_model fe1b1444-771b-4bbc-b9c1-ec5317a77e17)
   (position 7.0 62.0) (rotation 180.0) (flip false) (lock false)
   (stroke_text 364f6908-f3ba-40c5-8fe0-912d22744ef1 (layer top_cu)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)

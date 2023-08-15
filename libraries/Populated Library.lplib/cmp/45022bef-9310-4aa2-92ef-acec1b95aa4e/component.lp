@@ -32,7 +32,7 @@
  (signal c2ff9b3d-fdb7-4bc8-82b8-27a9a8f7c4ec (name "7") (role passive)
   (required false) (negated false) (clock false) (forced_net "FOO")
  )
- (signal 5725aed5-fedf-4e72-bd35-5818ccb18468 (name "8") (role passive)
+ (signal 5725aed5-fedf-4e72-bd35-5818ccb18468 (name "!8") (role passive)
   (required false) (negated false) (clock false) (forced_net "{{VALUE}}")
  )
  (variant 26c43f07-1154-4ab5-9bea-154afffce1d2 (norm "IEEE 315")
