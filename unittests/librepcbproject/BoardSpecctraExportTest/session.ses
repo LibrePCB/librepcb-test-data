@@ -1,0 +1,67 @@
+(session expected.ses
+  (base_design expected.dsn)
+  (placement
+    (resolution mm 1000000)
+    (component "D2:Demo Package"
+      (place D2 76000000 60000000 back 120)
+    )
+    (component "D1:Demo Package"
+      (place D1 7000000 62000000 front 180)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution mm 1000000)
+    (parser
+      (host_cad "LibrePCB-UnitTests")
+      (host_version 0)
+    )
+    (library_out 
+      (padstack "via-2.0-1.0-tht"
+        (shape
+          (circle top_cu 2000000 0 0)
+        )
+        (shape
+          (circle bot_cu 2000000 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net GND
+        (via "via-2.0-1.0-tht" 12000000 46000000
+          (type protect)
+        )
+        (wire
+          (path bot_cu 500000
+            57813000 40700900
+            57813000 47187000
+            49000000 56000000
+            25000000 56000000
+            20000000 51000000
+            20000000 46000000
+          )
+          (type protect)
+        )
+        (via "via-2.0-1.0-tht" 20000000 46000000
+          (type protect)
+        )
+        (via "via-2.0-1.0-tht" 16000000 46000000
+          (type protect)
+        )
+      )
+      (net N3
+        (wire
+          (path top_cu 500000
+            -620000 39140000
+            22860000 39140000
+            23839100 38160900
+            53413500 38160900
+          )
+          (type protect)
+        )
+      )
+    )
+  )
+)
