@@ -7,24 +7,30 @@ M48
 ; #@! TF.FileFunction,Plated,1,2,PTH
 FMAT,2
 METRIC,TZ
-; #@! TA.AperFunction,ComponentDrill
-T1C0.4
-; #@! TA.AperFunction,ComponentDrill
-T2C0.6
-; #@! TA.AperFunction,ComponentDrill
-T3C0.7
-; #@! TA.AperFunction,ComponentDrill
-T4C0.8
 ; #@! TA.AperFunction,ViaDrill
-T5C1.0
+T1C0.3
+; #@! TA.AperFunction,ComponentDrill
+T2C0.4
+; #@! TA.AperFunction,ComponentDrill
+T3C0.6
+; #@! TA.AperFunction,ComponentDrill
+T4C0.7
+; #@! TA.AperFunction,ComponentDrill
+T5C0.8
+; #@! TA.AperFunction,ViaDrill
+T6C1.0
 %
 G90
 G05
 M71
 T1
+X10.0Y32.0
+X14.0Y32.0
+X18.0Y32.0
+T2
 X-0.551941Y35.617469
 X56.928028Y40.268561
-T2
+T3
 G00X-0.628292Y37.45436
 M15
 G02X-0.029638Y37.350894A0.396537
@@ -39,7 +45,7 @@ G03X57.775978Y41.123536A0.396537
 G01X57.301375Y40.869071
 M16
 G05
-T3
+T4
 G00X-0.987413Y36.467683
 M15
 G01X-1.158423Y35.997837
@@ -50,14 +56,14 @@ M15
 G01X57.560678Y39.933516
 M16
 G05
-T4
+T5
 X-0.62Y31.52
 X-0.62Y34.06
 X-0.62Y39.14
 X53.413546Y38.160886
 X55.61325Y39.430886
 X60.012659Y41.970886
-T5
+T6
 X12.0Y46.0
 X20.0Y46.0
 X16.0Y46.0
