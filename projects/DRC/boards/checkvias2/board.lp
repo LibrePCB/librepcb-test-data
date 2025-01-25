@@ -37,6 +37,10 @@
   (allowed_pth_slots single_segment_straight)
   (approvals_version "1")
   (approved forbidden_via
+   (netsegment 89d4375c-b32b-4b7e-87a8-663b35866ded)
+   (via 3441e33b-8a50-484f-b60f-bb28937dd5d9)
+  )
+  (approved forbidden_via
    (netsegment db166794-1149-4556-8874-2e9afb6ad2fc)
    (via 1b0d1f8b-103b-4177-aaf4-91d33c7fb788)
   )
