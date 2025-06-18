@@ -6,13 +6,13 @@
   {
    "uuid": "a9ddf0c6-9b1c-4730-b300-01b4f192ad40",
    "name": {
-    "en_US": "LibrePCB Base"
+    "default": "LibrePCB Base"
    },
    "description": {
-    "en_US": "Official LibrePCB Base Library"
+    "default": "Official LibrePCB Base Library"
    },
    "keywords": {
-    "en_US": ""
+    "default": ""
    },
    "author": "LibrePCB",
    "version": "0.0.3.10",
@@ -36,13 +36,13 @@
   {
    "uuid": "6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6",
    "name": {
-    "en_US": "LibrePCB Connectors"
+    "default": "LibrePCB Connectors"
    },
    "description": {
-    "en_US": "Official LibrePCB Connectors"
+    "default": "Official LibrePCB Connectors"
    },
    "keywords": {
-    "en_US": ""
+    "default": ""
    },
    "author": "LibrePCB",
    "version": "0.0.1.1",
@@ -68,13 +68,13 @@
   {
    "uuid": "326f091b-b715-44bf-b385-b613cd60d9f3",
    "name": {
-    "en_US": "LibrePCB Integrated Circuits"
+    "default": "LibrePCB Integrated Circuits"
    },
    "description": {
-    "en_US": "Official LibrePCB Integrated Circuits"
+    "default": "Official LibrePCB Integrated Circuits"
    },
    "keywords": {
-    "en_US": ""
+    "default": ""
    },
    "author": "LibrePCB",
    "version": "0.0.1.1",
