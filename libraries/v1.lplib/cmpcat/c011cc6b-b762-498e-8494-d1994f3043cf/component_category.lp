@@ -1,0 +1,11 @@
+(librepcb_component_category c011cc6b-b762-498e-8494-d1994f3043cf
+ (name "Capacitors")
+ (name (locale "de_DE") "Kondensatoren")
+ (description "")
+ (keywords "capacitor,capacitance")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2015-07-05T12:43:52Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,11 @@
+(librepcb_component_category e0702c57-f31f-497d-ae1e-e31c4017f3c0
+ (name "Schematic Frames")
+ (name (locale "de_DE") "Zeichnungsrahmen")
+ (description "")
+ (keywords "frame,border")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2015-07-05T12:43:52Z)
+ (deprecated false)
+ (parent none)
+)

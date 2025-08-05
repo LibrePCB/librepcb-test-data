@@ -1,0 +1,11 @@
+(librepcb_library a7cb5051-9f37-4500-be38-33eade6e621e
+ (name "Populated Library")
+ (description "Test library containing some elements")
+ (keywords "test,library,populated")
+ (author "test")
+ (version "0.0.1")
+ (created 2016-09-28T21:48:03Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB/PopulatedLibrary.lplib")
+ (manufacturer "Demo Manufacturer")
+)
