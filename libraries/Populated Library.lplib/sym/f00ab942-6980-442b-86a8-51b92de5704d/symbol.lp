@@ -8,6 +8,7 @@
  (deprecated false)
  (generated_by "")
  (category e0702c57-f31f-497d-ae1e-e31c4017f3c0)
+ (grid_interval 2.54)
  (polygon 97a74f95-620e-4802-bb8e-29cc6dd6eddc (layer sym_outlines)
   (width 0.6) (fill false) (grab_area false)
   (vertex (position 0.0 0.0) (angle 0.0))

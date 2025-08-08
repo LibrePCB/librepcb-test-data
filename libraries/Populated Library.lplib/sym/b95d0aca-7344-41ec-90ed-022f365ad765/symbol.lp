@@ -8,6 +8,7 @@
  (deprecated false)
  (generated_by "")
  (category adf8d941-787c-4b02-8772-fbc0a587463d)
+ (grid_interval 2.54)
  (pin 771c2d8b-e4ad-487b-bcb1-fe2bc10c8a03 (name "NET")
   (position 0.0 -2.54) (rotation 90.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)

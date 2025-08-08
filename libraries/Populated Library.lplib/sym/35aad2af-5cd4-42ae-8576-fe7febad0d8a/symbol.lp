@@ -9,6 +9,7 @@
  (generated_by "")
  (category 213bd44f-f375-41d8-8fdd-0652eb893e27)
  (category 8226f987-124b-4776-9084-3821dd51c272)
+ (grid_interval 2.54)
  (pin 6ccffe31-eff7-4664-b73a-03cc7a1f342e (name "1")
   (position -10.16 7.62) (rotation 0.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)

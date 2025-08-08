@@ -8,6 +8,7 @@
  (deprecated false)
  (generated_by "")
  (category 4a4e3c72-94fb-45f9-a6d8-122d2af16fb1)
+ (grid_interval 2.54)
  (pin a668984d-5658-4e16-bc0a-9dd2a525881e (name "1")
   (position 5.08 7.62) (rotation 180.0) (length 3.81)
   (name_position 5.08 0.0) (name_rotation 0.0) (name_height 2.5)

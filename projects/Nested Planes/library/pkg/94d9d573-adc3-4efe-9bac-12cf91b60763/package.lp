@@ -8,6 +8,7 @@
  (deprecated false)
  (generated_by "")
  (assembly_type auto)
+ (grid_interval 2.54)
  (pad 496c5f4a-ef39-4bc8-bfee-847f86e688d1 (name "2"))
  (pad 5878ed56-0ebc-4ff7-8501-0208f261babe (name "1"))
  (footprint 60efc22e-1875-4e13-bc5f-17462781ae1e

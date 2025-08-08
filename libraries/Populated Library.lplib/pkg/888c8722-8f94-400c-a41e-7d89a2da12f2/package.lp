@@ -8,6 +8,7 @@
  (deprecated false)
  (generated_by "")
  (assembly_type auto)
+ (grid_interval 2.54)
  (pad 08057c6a-86af-474d-955d-7a966c7f73de (name "G"))
  (pad 58eea0cf-9ed7-441d-8e14-6a7ef016edc9 (name "S"))
  (pad 66ac93f7-4af4-40a8-9e53-4dbbf128bbc9 (name "D"))

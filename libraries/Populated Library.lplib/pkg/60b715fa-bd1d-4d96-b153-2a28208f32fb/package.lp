@@ -9,6 +9,7 @@
  (generated_by "")
  (category a20f0330-06d3-4bc2-a1fa-f8577deb6770)
  (assembly_type auto)
+ (grid_interval 2.54)
  (pad 4f6ec20b-c2e7-47d9-ba0e-8cde302966c5 (name "1"))
  (pad 9902d57d-5b64-4bc3-9a5b-a21052667c9d (name "2"))
  (footprint 328e4ae0-a0f1-4d92-87b5-1695afbe98e1
