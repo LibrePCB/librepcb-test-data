@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+import re
 import sys
 import subprocess
 
@@ -12,6 +13,8 @@ CLI_EXECUTABLE = sys.argv[1]
 def find(suffix):
     result = []
     for root, dirnames, filenames in os.walk(DATA_ROOT):
+        if re.search(r"/v\d+(\.\d+)?(\.*)?", root):
+            continue  # Skip versioned projects & libraries
         if root.endswith(suffix):
             result.append(root)
         for filename in filenames:
