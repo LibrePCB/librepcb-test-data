@@ -162,4 +162,8 @@
    (to (junction 4d475a62-1645-476c-b04e-05bc1da6d6c2))
   )
  )
+ (image 04861e58-8586-4dec-a7ea-fa7c86009590 (file "logo.png")
+  (position 20.32 22.86) (rotation 0.0) (width 7.62) (height 7.62)
+  (border none)
+ )
 )
