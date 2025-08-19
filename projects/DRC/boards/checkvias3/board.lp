@@ -36,41 +36,41 @@
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
   (approvals_version "1")
-  (approved antennae_via
+  (approved invalid_via
+   (netsegment e94aa470-4f4c-4140-901a-cbccc2505bbc)
+   (via 197fb669-ff4d-4176-a571-e1976b0887b9)
+  )
+  (approved useless_via
    (netsegment 31b8771e-8e94-421e-8397-9af99a192661)
    (via 5ee8d68a-61cc-49fb-aa03-064d6354f4f8)
   )
-  (approved antennae_via
+  (approved useless_via
    (netsegment 53491516-166b-466b-9242-f65d53929963)
    (via 03fd91ac-2886-4e4b-bec8-d117037cf765)
   )
-  (approved antennae_via
+  (approved useless_via
    (netsegment 6a1c1ebd-e560-42db-b3e1-a352f3f606f8)
    (via ac2a579d-4510-4aa8-9c94-20aae3e3b52c)
   )
-  (approved antennae_via
+  (approved useless_via
    (netsegment 71757d2d-7520-4090-b499-517bf8434633)
    (via dabdb32e-463c-4a2f-bfcc-d5cd6f7cf7dd)
   )
-  (approved antennae_via
+  (approved useless_via
    (netsegment 77f7e74d-d844-441c-ab2f-ac9995d1f9a9)
    (via 5638b21b-6600-4371-8c1b-a370e07b4ddd)
   )
-  (approved antennae_via
+  (approved useless_via
    (netsegment 94bfdf56-81cf-432e-9583-69cfa5268c8c)
    (via fde9dd29-94ba-4518-8a85-7b5cf31cce2b)
   )
-  (approved antennae_via
+  (approved useless_via
    (netsegment 9707fcd8-7cf0-4056-b4c3-8cb372bd7b4c)
    (via a398c4b9-468c-485e-b009-dc510f1aceec)
   )
-  (approved antennae_via
+  (approved useless_via
    (netsegment c342b082-ca03-411e-ac2a-5d25e7669eb7)
    (via a69a7804-aa89-4a07-90ca-d480444e8b3a)
-  )
-  (approved useless_via
-   (netsegment e94aa470-4f4c-4140-901a-cbccc2505bbc)
-   (via 197fb669-ff4d-4176-a571-e1976b0887b9)
   )
  )
  (fabrication_output_settings

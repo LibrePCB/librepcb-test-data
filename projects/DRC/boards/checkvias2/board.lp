@@ -36,49 +36,49 @@
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
   (approvals_version "1")
-  (approved antennae_via
-   (netsegment 2a595d50-2894-4437-a250-b8e7c7e11595)
-   (via 8ee672c0-22b6-41a6-937b-2e859874ff25)
-  )
-  (approved antennae_via
-   (netsegment 4e86810a-1805-405e-8fae-934abbdcd648)
-   (via 69d5c8b2-6205-46d6-9d76-bcb92612a760)
-  )
-  (approved antennae_via
-   (netsegment 55c13b4e-f177-43d5-9fbb-94c405737701)
-   (via 19664e67-c4b1-4538-83e4-29c8ec97f666)
-  )
-  (approved antennae_via
-   (netsegment 5f896d6d-3088-4839-bbae-d6ce53888da0)
-   (via f445172c-e977-4bf7-b351-e269310c9d09)
-  )
-  (approved antennae_via
-   (netsegment 608412de-56d6-42d8-b86d-63bae4a5cb3f)
-   (via 5effc09d-d359-4a39-a096-9dac47707501)
-  )
-  (approved antennae_via
-   (netsegment cb6d6472-8851-4046-8be0-d5ef677a1d8c)
-   (via 6db46577-63a3-4e7f-af5d-4b8cda3585fe)
-  )
-  (approved antennae_via
-   (netsegment db166794-1149-4556-8874-2e9afb6ad2fc)
-   (via 1b0d1f8b-103b-4177-aaf4-91d33c7fb788)
-  )
-  (approved antennae_via
-   (netsegment dbdde16d-7040-4e2d-9142-8b313319fb98)
-   (via 083aea05-c4ec-45a4-afb4-d134f7f32533)
-  )
   (approved forbidden_via
    (netsegment 89d4375c-b32b-4b7e-87a8-663b35866ded)
    (via 3441e33b-8a50-484f-b60f-bb28937dd5d9)
   )
   (approved forbidden_via
+   (netsegment db166794-1149-4556-8874-2e9afb6ad2fc)
+   (via 1b0d1f8b-103b-4177-aaf4-91d33c7fb788)
+  )
+  (approved invalid_via
+   (netsegment 89d4375c-b32b-4b7e-87a8-663b35866ded)
+   (via 3441e33b-8a50-484f-b60f-bb28937dd5d9)
+  )
+  (approved useless_via
+   (netsegment 2a595d50-2894-4437-a250-b8e7c7e11595)
+   (via 8ee672c0-22b6-41a6-937b-2e859874ff25)
+  )
+  (approved useless_via
+   (netsegment 4e86810a-1805-405e-8fae-934abbdcd648)
+   (via 69d5c8b2-6205-46d6-9d76-bcb92612a760)
+  )
+  (approved useless_via
+   (netsegment 55c13b4e-f177-43d5-9fbb-94c405737701)
+   (via 19664e67-c4b1-4538-83e4-29c8ec97f666)
+  )
+  (approved useless_via
+   (netsegment 5f896d6d-3088-4839-bbae-d6ce53888da0)
+   (via f445172c-e977-4bf7-b351-e269310c9d09)
+  )
+  (approved useless_via
+   (netsegment 608412de-56d6-42d8-b86d-63bae4a5cb3f)
+   (via 5effc09d-d359-4a39-a096-9dac47707501)
+  )
+  (approved useless_via
+   (netsegment cb6d6472-8851-4046-8be0-d5ef677a1d8c)
+   (via 6db46577-63a3-4e7f-af5d-4b8cda3585fe)
+  )
+  (approved useless_via
    (netsegment db166794-1149-4556-8874-2e9afb6ad2fc)
    (via 1b0d1f8b-103b-4177-aaf4-91d33c7fb788)
   )
   (approved useless_via
-   (netsegment 89d4375c-b32b-4b7e-87a8-663b35866ded)
-   (via 3441e33b-8a50-484f-b60f-bb28937dd5d9)
+   (netsegment dbdde16d-7040-4e2d-9142-8b313319fb98)
+   (via 083aea05-c4ec-45a4-afb4-d134f7f32533)
   )
  )
  (fabrication_output_settings
