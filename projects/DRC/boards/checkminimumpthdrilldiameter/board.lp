@@ -70,7 +70,7 @@
   (lib_device 1f2a25cf-bf64-4ad1-8704-bc2c02718916)
   (lib_footprint b936f0fa-6ea1-4f39-a88a-d0ce85c22356)
   (lib_3d_model none)
-  (position 13.0175 9.525) (rotation 0.0) (flip false) (lock false)
+  (position 13.0175 9.525) (rotation 0.0) (flip false) (lock false) (glue true)
   (stroke_text 768d1394-ab63-4dcc-a4e3-e1d09faf5232 (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
    (align center bottom) (position 13.0175 11.43) (rotation 0.0)

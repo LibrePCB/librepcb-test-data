@@ -71,7 +71,7 @@
   (lib_device ef973c3b-f868-445b-9a76-45982b43ba64)
   (lib_footprint 0d1ef516-8ca2-4a0c-a820-191d64997471)
   (lib_3d_model b6abfff4-e645-40af-b9ec-004dd4cca62a)
-  (position 13.6525 8.5725) (rotation 90.0) (flip false) (lock false)
+  (position 13.6525 8.5725) (rotation 90.0) (flip false) (lock false) (glue true)
   (stroke_text 8969f4ac-29fe-4201-a67b-1cc17fef5002 (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
    (align center bottom) (position 4.1275 8.5725) (rotation 90.0)
