@@ -54,8 +54,8 @@
    (suffix_buried "_DRILLS-PLATED-{{START_LAYER}}-{{END_LAYER}}.drl")
    (g85_slots false)
   )
-  (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
-  (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
+  (solderpaste_top (create true) (suffix "_SOLDERPASTE-TOP.gbr"))
+  (solderpaste_bot (create true) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
  (device 2ff8e71f-6827-43fc-bb77-b3811c50493e
   (lib_device 4f5ee784-4b1b-407c-802b-44625163d90f)

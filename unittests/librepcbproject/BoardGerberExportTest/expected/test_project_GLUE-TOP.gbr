@@ -1,0 +1,24 @@
+G04 --- HEADER BEGIN --- *
+G04 #@! TF.GenerationSoftware,LibrePCB,LibrePCB,0.1.2*
+G04 #@! TF.CreationDate,2019-01-02T03:04:05*
+G04 #@! TF.ProjectId,test_project,7c04f9d5-7366-4c4b-9e17-852ed57b3966,v1*
+G04 #@! TF.Part,Single*
+G04 #@! TF.SameCoordinates*
+G04 #@! TF.FileFunction,Glue,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX66Y66*%
+%MOMM*%
+G01*
+G75*
+G04 --- HEADER END --- *
+G04 --- APERTURE LIST BEGIN --- *
+%ADD10C,1.8*%
+G04 --- APERTURE LIST END --- *
+G04 --- BOARD BEGIN --- *
+D10*
+G04 #@! TO.C,D1*
+X-3160000Y41680000D02*
+X-8240000Y41680000D01*
+G04 --- BOARD END --- *
+
+M02*
