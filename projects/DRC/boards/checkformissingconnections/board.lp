@@ -182,8 +182,8 @@
   (junction 380281bb-f088-459a-b116-5ddd190656d7 (position 17.4625 19.05))
   (junction 3ec5cd67-b6c7-40cd-b1de-22a1ab16e0ed (position 17.4625 21.59))
   (trace 8d906061-3bef-4f12-84d1-3d063a3d3885 (layer top_cu) (width 0.5)
-   (from (junction 3ec5cd67-b6c7-40cd-b1de-22a1ab16e0ed))
-   (to (junction 380281bb-f088-459a-b116-5ddd190656d7))
+   (from (junction 380281bb-f088-459a-b116-5ddd190656d7))
+   (to (junction 3ec5cd67-b6c7-40cd-b1de-22a1ab16e0ed))
   )
  )
  (netsegment 6b0e2786-1cee-41e7-9c9a-2b34fa74c1f5
