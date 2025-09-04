@@ -193,6 +193,17 @@
    (position 64.0 91.0) (size 2.0) (drill 1.0) (exposure auto)
   )
  )
+ (netsegment 28510140-c046-42c7-8bde-91994c369458
+  (net none)
+  (pad 0731aac5-a6d6-44cd-8a4b-4b6a7a32511a (side top) (shape roundrect)
+   (position 65.0 70.0) (rotation 20.0) (size 2.5 1.3) (radius 1.0)
+   (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
+   (lock false)
+   (hole 9eaf8279-d477-4316-972f-cfbc8a7c774f (diameter 0.8)
+    (vertex (position 0.0 0.0) (angle 0.0))
+   )
+  )
+ )
  (netsegment 3488f95b-77f9-4b30-8590-616f92821228
   (net 86cdf30c-0cc3-4dcb-a770-614041fb1dfc)
   (via 0f04c5f3-4b10-4a63-b539-21c6e6016411 (from top_cu) (to bot_cu)
@@ -286,6 +297,14 @@
   (net 260204c4-3409-4651-a290-c9be9abf45c8)
   (via a5d57f51-4c16-4a00-864f-1e75526086ff (from top_cu) (to bot_cu)
    (position 21.0 76.0) (size 2.0) (drill 1.0) (exposure auto)
+  )
+ )
+ (netsegment 88ccfcce-9bee-4351-b84d-e3293fd8b998
+  (net none)
+  (pad 06c43bad-148a-4631-b057-33af4bb87908 (side top) (shape roundrect)
+   (position 38.0 22.0) (rotation 20.0) (size 1.5 0.7) (radius 0.0)
+   (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
+   (lock false)
   )
  )
  (netsegment 8ddd5b2a-5b00-4111-90ff-e03abd9770a2
