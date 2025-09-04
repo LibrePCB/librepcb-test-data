@@ -437,6 +437,9 @@
   )
  )
  (placement
+  (component "BOARD"
+   (place "BOARD" 0.0 0.0 front 0.0)
+  )
   (component "D2:Demo Package"
    (place "D2" 76.0 60.0 back 120.0)
   )
@@ -445,6 +448,14 @@
   )
  )
  (library
+  (image "BOARD"
+   (pin "pad-0" (rotate 0.0) "0e302f0c32b644129be110ee8a4ebd8a:e3b493da3c744c5fa2d420c7945f1f01" 90.0 25.0)
+   (pin "pad-1" (rotate 20.0) "2117a572b11f4e5cb179fdcae978d3da:9ed1fb06bd1542628f005ea222aebd68" 88.0 37.0)
+   (pin "pad-2" (rotate 20.0) "2d1ae78744de4585951383233c83decf:670bf0e919a94da1ad387224515bc909" 85.0 26.0)
+   (pin "pad-3" (rotate 0.0) "5a1debc4bcb24524813298c5d45ac12e:a38535d0355049c0ad7357e7cced4b8d" 90.0 28.0)
+   (pin "pad-4" (rotate -20.0) "b068252df794419ba09680b416140b59:9c56dfa4ec5a4692bdddba5f3c4e7e00" 88.0 32.0)
+   (pin "pad-5" (rotate 20.0) "eb5786fe08e74a09a546dbb72a9c4839:adf5dfdb229c43779c66613df4b52d64" 85.0 29.0)
+  )
   (image "D2:Demo Package"
    (outline (path signal 0.2
      7.62 17.78
@@ -521,14 +532,14 @@
      14.154651 34.968484
     )
    )
-   (pin "pad-0" (rotate 20.0) "01459d8433fc4a81b909b720a0bc3e12" 7.62 22.86)
-   (pin "pad-1" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
-   (pin "pad-2" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
-   (pin "pad-3" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
-   (pin "pad-4" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
-   (pin "pad-5" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
-   (pin "pad-6" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
-   (pin "pad-7" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
+   (pin "pad-6" (rotate 20.0) "01459d8433fc4a81b909b720a0bc3e12" 7.62 22.86)
+   (pin "pad-7" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
+   (pin "pad-8" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
+   (pin "pad-9" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
+   (pin "pad-10" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
+   (pin "pad-11" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
+   (pin "pad-12" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
+   (pin "pad-13" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
    (keepout "D2:hole:4ab2be01-222a-4f59-b239-e1de803ba96d"
     (circle signal 3.4 2.54 2.54)
    )
@@ -698,14 +709,14 @@
      14.154651 34.968484
     )
    )
-   (pin "pad-0" (rotate 20.0) "01459d8433fc4a81b909b720a0bc3e12" 7.62 22.86)
-   (pin "pad-1" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
-   (pin "pad-2" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
-   (pin "pad-3" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
-   (pin "pad-4" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
-   (pin "pad-5" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
-   (pin "pad-6" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
-   (pin "pad-7" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
+   (pin "pad-6" (rotate 20.0) "01459d8433fc4a81b909b720a0bc3e12" 7.62 22.86)
+   (pin "pad-7" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
+   (pin "pad-8" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
+   (pin "pad-9" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
+   (pin "pad-10" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
+   (pin "pad-11" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
+   (pin "pad-12" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
+   (pin "pad-13" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
    (keepout "D1:hole:4ab2be01-222a-4f59-b239-e1de803ba96d"
     (circle signal 3.4 2.54 2.54)
    )
@@ -800,6 +811,122 @@
    )
   )
   (padstack "pad-0"
+   (shape (circle top_cu 1.0))
+   (attach off)
+  )
+  (padstack "pad-1"
+   (shape (path top_cu 1.3 -0.6 0.0 0.6 0.0))
+   (shape (path bot_cu 1.3 -0.6 0.0 0.6 0.0))
+   (attach off)
+  )
+  (padstack "pad-2"
+   (shape (polygon bot_cu 0.0
+     -0.575 0.35
+     0.575 0.35
+     0.64197 0.336679
+     0.698744 0.298744
+     0.736679 0.24197
+     0.75 0.175
+     0.75 -0.175
+     0.736679 -0.24197
+     0.698744 -0.298744
+     0.64197 -0.336679
+     0.575 -0.35
+     -0.575 -0.35
+     -0.64197 -0.336679
+     -0.698744 -0.298744
+     -0.736679 -0.24197
+     -0.75 -0.175
+     -0.75 0.175
+     -0.736679 0.24197
+     -0.698744 0.298744
+     -0.64197 0.336679
+     -0.575 0.35
+    ))
+   (attach off)
+  )
+  (padstack "pad-3"
+   (shape (circle top_cu 0.7))
+   (attach off)
+  )
+  (padstack "pad-4"
+   (shape (polygon top_cu 0.0
+     1.25 0.134619
+     1.238926 0.218735
+     1.206459 0.297119
+     1.15481 0.364429
+     0.964429 0.55481
+     0.897119 0.606458
+     0.818735 0.638926
+     0.734619 0.65
+     -0.734619 0.65
+     -0.818735 0.638926
+     -0.897119 0.606459
+     -0.964429 0.55481
+     -1.15481 0.364429
+     -1.206458 0.297119
+     -1.238926 0.218735
+     -1.25 0.134619
+     -1.25 -0.134619
+     -1.238926 -0.218735
+     -1.206459 -0.297119
+     -1.15481 -0.364429
+     -0.964429 -0.55481
+     -0.897119 -0.606458
+     -0.818735 -0.638926
+     -0.734619 -0.65
+     0.734619 -0.65
+     0.818735 -0.638926
+     0.897119 -0.606459
+     0.964429 -0.55481
+     1.15481 -0.364429
+     1.206458 -0.297119
+     1.238926 -0.218735
+     1.25 -0.134619
+     1.25 0.134619
+    ))
+   (shape (polygon bot_cu 0.0
+     1.25 0.134619
+     1.238926 0.218735
+     1.206459 0.297119
+     1.15481 0.364429
+     0.964429 0.55481
+     0.897119 0.606458
+     0.818735 0.638926
+     0.734619 0.65
+     -0.734619 0.65
+     -0.818735 0.638926
+     -0.897119 0.606459
+     -0.964429 0.55481
+     -1.15481 0.364429
+     -1.206458 0.297119
+     -1.238926 0.218735
+     -1.25 0.134619
+     -1.25 -0.134619
+     -1.238926 -0.218735
+     -1.206459 -0.297119
+     -1.15481 -0.364429
+     -0.964429 -0.55481
+     -0.897119 -0.606458
+     -0.818735 -0.638926
+     -0.734619 -0.65
+     0.734619 -0.65
+     0.818735 -0.638926
+     0.897119 -0.606459
+     0.964429 -0.55481
+     1.15481 -0.364429
+     1.206458 -0.297119
+     1.238926 -0.218735
+     1.25 -0.134619
+     1.25 0.134619
+    ))
+   (attach off)
+  )
+  (padstack "pad-5"
+   (shape (rect top_cu -0.75 -0.35 0.75 0.35))
+   (attach off)
+  )
+  (padstack "pad-6"
    (shape (polygon top_cu 0.0
      0.746681 -0.498916
      0.829667 -0.34366
@@ -854,12 +981,12 @@
     ))
    (attach off)
   )
-  (padstack "pad-1"
+  (padstack "pad-7"
    (shape (rect top_cu -1.27 -0.635 1.27 0.635))
    (shape (rect bot_cu -1.27 -0.635 1.27 0.635))
    (attach off)
   )
-  (padstack "pad-2"
+  (padstack "pad-8"
    (shape (polygon top_cu 0.0
      1.0 0.207107
      0.707107 0.5
@@ -873,7 +1000,7 @@
     ))
    (attach off)
   )
-  (padstack "pad-3"
+  (padstack "pad-9"
    (shape (polygon top_cu 0.0
      -0.75 0.5
      0.75 0.5
@@ -899,7 +1026,7 @@
     ))
    (attach off)
   )
-  (padstack "pad-4"
+  (padstack "pad-10"
    (shape (polygon bot_cu 0.0
      1.0 0.207107
      0.707107 0.5
@@ -913,12 +1040,12 @@
     ))
    (attach off)
   )
-  (padstack "pad-5"
+  (padstack "pad-11"
    (shape (path top_cu 1.27 -0.635 0.0 0.635 0.0))
    (shape (path bot_cu 1.27 -0.635 0.0 0.635 0.0))
    (attach off)
   )
-  (padstack "pad-6"
+  (padstack "pad-12"
    (shape (polygon top_cu 0.0
      1.0 0.914214
      0.414214 1.5
@@ -943,7 +1070,7 @@
     ))
    (attach off)
   )
-  (padstack "pad-7"
+  (padstack "pad-13"
    (shape (path top_cu 1.0 -0.5 0.0 0.5 0.0))
    (attach off)
   )
@@ -984,6 +1111,8 @@
     D1-94be2710da4d4d9ca3316a76fe8715a0
     D1-fa10a1e1880d4f87a242b9b4f73c6cc4
     D1-d70029504d2442bf8aa4f17b2e1e9559
+    BOARD-2d1ae78744de4585951383233c83decf:670bf0e919a94da1ad387224515bc909
+    BOARD-b068252df794419ba09680b416140b59:9c56dfa4ec5a4692bdddba5f3c4e7e00
    )
   )
   (net "GND"
@@ -1010,7 +1139,27 @@
     D1-c1b0e36ccc5c494785d095b1d97fb0ab
    )
   )
+  (net "~anonymous~0e302f0c-32b6-4412-9be1-10ee8a4ebd8a"
+   (pins
+    BOARD-0e302f0c32b644129be110ee8a4ebd8a:e3b493da3c744c5fa2d420c7945f1f01
+   )
+  )
+  (net "~anonymous~2117a572-b11f-4e5c-b179-fdcae978d3da"
+   (pins
+    BOARD-2117a572b11f4e5cb179fdcae978d3da:9ed1fb06bd1542628f005ea222aebd68
+   )
+  )
+  (net "~anonymous~5a1debc4-bcb2-4524-8132-98c5d45ac12e"
+   (pins
+    BOARD-5a1debc4bcb24524813298c5d45ac12e:a38535d0355049c0ad7357e7cced4b8d
+   )
+  )
   (net "~anonymous~a3d1b6db-e421-4ceb-8665-61cb22257f45")
+  (net "~anonymous~eb5786fe-08e7-4a09-a546-dbb72a9c4839"
+   (pins
+    BOARD-eb5786fe08e74a09a546dbb72a9c4839:adf5dfdb229c43779c66613df4b52d64
+   )
+  )
   (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818")
  )
  (wiring

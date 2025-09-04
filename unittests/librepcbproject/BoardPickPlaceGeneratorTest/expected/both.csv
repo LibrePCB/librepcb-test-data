@@ -7,3 +7,4 @@ D2,DEMO1,Demo Device,Demo Package,76.0,60.0,240.0,Bottom,THT+SMT
 D2:1,DEMO1,Demo Device,Demo Package,55.61325,39.430886,240.0,Top,Fiducial
 D2:2,DEMO1,Demo Device,Demo Package,55.61325,39.430886,240.0,Bottom,Fiducial
 D2:3,DEMO1,Demo Device,Demo Package,62.892955,31.902068,260.0,Bottom,Fiducial
+FID1,,,,90.0,25.0,0.0,Top,Fiducial
