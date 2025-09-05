@@ -35,7 +35,12 @@
   (buried_vias_allowed false)
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
-  (approvals_version "1")
+  (approvals_version "2")
+  (approved minimum_slot_width_violation
+   (netsegment 62fd5566-aa3b-4639-b234-91202efa0008)
+   (pad 14fbcf01-2cc7-4aaf-8b02-46d5d58a027d)
+   (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb)
+  )
  )
  (fabrication_output_settings
   (base_path "./output/{{VERSION}}/gerber/{{PROJECT}}")
@@ -71,6 +76,18 @@
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
    (align center top) (position 13.0175 7.62) (rotation 0.0)
    (auto_rotate true) (mirror false) (lock false) (value "{{VALUE}}")
+  )
+ )
+ (netsegment 62fd5566-aa3b-4639-b234-91202efa0008
+  (net 09687846-056d-4953-8bd3-402dad65bc9f)
+  (pad 14fbcf01-2cc7-4aaf-8b02-46d5d58a027d (side top) (shape roundrect)
+   (position 18.7325 7.9375) (rotation 0.0) (size 1.2 0.7) (radius 1.0)
+   (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
+   (lock false)
+   (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb (diameter 0.5)
+    (vertex (position 0.2 0.0) (angle 0.0))
+    (vertex (position -0.2 0.0) (angle 0.0))
+   )
   )
  )
  (netsegment c98e88eb-18c0-4488-a587-86e63e378cde

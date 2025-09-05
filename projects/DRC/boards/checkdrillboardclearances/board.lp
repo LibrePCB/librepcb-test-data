@@ -35,7 +35,7 @@
   (buried_vias_allowed false)
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
-  (approvals_version "1")
+  (approvals_version "2")
   (approved drill_board_clearance_violation
    (device 17562ad5-30d8-4d20-890c-4533e46f19c9)
    (pad 05e0e1d9-dad4-4467-8651-7fdaf826305f)
@@ -47,6 +47,11 @@
   (approved drill_board_clearance_violation
    (netsegment 2f10767c-ab27-48cf-a093-458804f69125)
    (via a5559005-c024-4756-81b8-a91327aea7a6)
+  )
+  (approved drill_board_clearance_violation
+   (netsegment d1f73331-9cc2-4531-9664-6d13517dd8d3)
+   (pad 34061efc-c825-4d6a-b0a7-7c605a02b7e6)
+   (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb)
   )
  )
  (fabrication_output_settings
@@ -89,6 +94,17 @@
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via a5559005-c024-4756-81b8-a91327aea7a6 (from top_cu) (to bot_cu)
    (position 0.9525 18.0975) (size 1.0) (drill 0.5) (exposure off)
+  )
+ )
+ (netsegment d1f73331-9cc2-4531-9664-6d13517dd8d3
+  (net 09687846-056d-4953-8bd3-402dad65bc9f)
+  (pad 34061efc-c825-4d6a-b0a7-7c605a02b7e6 (side top) (shape roundrect)
+   (position 0.9525 11.7475) (rotation 0.0) (size 1.2 0.7) (radius 1.0)
+   (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
+   (lock false)
+   (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb (diameter 0.5)
+    (vertex (position 0.0 0.0) (angle 0.0))
+   )
   )
  )
  (polygon d492e2c3-f17f-46ce-b00b-bfcd2dfc9543 (layer brd_outlines)

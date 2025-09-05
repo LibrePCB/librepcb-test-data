@@ -35,12 +35,20 @@
   (buried_vias_allowed false)
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
-  (approvals_version "1")
+  (approvals_version "2")
   (approved drill_clearance_violation
    (drill (hole 2d1b4c67-c621-4d62-81cd-1f99898017d3))
    (drill (hole 80f1fa84-36bb-4b85-afb5-f85a8963dedb))
   )
   (approved drill_clearance_violation
+   (drill (hole 2d1b4c67-c621-4d62-81cd-1f99898017d3))
+   (drill
+    (netsegment e8f1d323-62bf-4ad6-b6cb-9faf0a1a91a3)
+    (pad b441a761-e70e-4eaf-ac43-dcda08f97464)
+    (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb)
+   )
+  )
+  (approved drill_clearance_violation
    (drill (hole 80f1fa84-36bb-4b85-afb5-f85a8963dedb))
    (drill
     (device 17562ad5-30d8-4d20-890c-4533e46f19c9)
@@ -64,6 +72,41 @@
    (drill
     (netsegment d80853b8-febf-4d4e-88bd-44cdc920941e)
     (via cfa6f1dd-09ca-47a3-bfb8-4c8f80e6313a)
+   )
+  )
+  (approved drill_clearance_violation
+   (drill
+    (device 17562ad5-30d8-4d20-890c-4533e46f19c9)
+    (pad 8b1d26d4-8778-42b0-8fd2-7df446606eb7)
+    (hole 8b1d26d4-8778-42b0-8fd2-7df446606eb7)
+   )
+   (drill
+    (netsegment 797c3bc4-a2c2-4cf6-a957-139d4da68e59)
+    (pad f97406a7-6ac3-4f7f-891f-6d0f2f9bfa19)
+    (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb)
+   )
+  )
+  (approved drill_clearance_violation
+   (drill
+    (netsegment 797c3bc4-a2c2-4cf6-a957-139d4da68e59)
+    (pad f97406a7-6ac3-4f7f-891f-6d0f2f9bfa19)
+    (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb)
+   )
+   (drill
+    (netsegment d80853b8-febf-4d4e-88bd-44cdc920941e)
+    (via cfa6f1dd-09ca-47a3-bfb8-4c8f80e6313a)
+   )
+  )
+  (approved drill_clearance_violation
+   (drill
+    (netsegment 797c3bc4-a2c2-4cf6-a957-139d4da68e59)
+    (pad f97406a7-6ac3-4f7f-891f-6d0f2f9bfa19)
+    (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb)
+   )
+   (drill
+    (netsegment e8f1d323-62bf-4ad6-b6cb-9faf0a1a91a3)
+    (pad b441a761-e70e-4eaf-ac43-dcda08f97464)
+    (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb)
    )
   )
  )
@@ -103,10 +146,32 @@
    (auto_rotate true) (mirror false) (lock false) (value "{{VALUE}}")
   )
  )
+ (netsegment 797c3bc4-a2c2-4cf6-a957-139d4da68e59
+  (net 09687846-056d-4953-8bd3-402dad65bc9f)
+  (pad f97406a7-6ac3-4f7f-891f-6d0f2f9bfa19 (side top) (shape roundrect)
+   (position 15.5575 12.3825) (rotation 0.0) (size 1.2 0.7) (radius 1.0)
+   (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
+   (lock false)
+   (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb (diameter 0.5)
+    (vertex (position 0.0 0.0) (angle 0.0))
+   )
+  )
+ )
  (netsegment d80853b8-febf-4d4e-88bd-44cdc920941e
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via cfa6f1dd-09ca-47a3-bfb8-4c8f80e6313a (from top_cu) (to bot_cu)
    (position 14.2875 12.3825) (size 1.0) (drill 0.5) (exposure off)
+  )
+ )
+ (netsegment e8f1d323-62bf-4ad6-b6cb-9faf0a1a91a3
+  (net 09687846-056d-4953-8bd3-402dad65bc9f)
+  (pad b441a761-e70e-4eaf-ac43-dcda08f97464 (side top) (shape roundrect)
+   (position 15.5575 13.6525) (rotation 0.0) (size 1.2 0.7) (radius 1.0)
+   (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
+   (lock false)
+   (hole 9581badf-a5ff-40da-b2cb-bb9b0ce714cb (diameter 0.5)
+    (vertex (position 0.0 0.0) (angle 0.0))
+   )
   )
  )
  (polygon e53eedec-a1f5-4e4c-9372-63d267137480 (layer brd_outlines)
@@ -119,7 +184,7 @@
  )
  (hole 2d1b4c67-c621-4d62-81cd-1f99898017d3 (diameter 1.0)
   (stop_mask auto) (lock false)
-  (vertex (position 12.065 13.6525) (angle 0.0))
+  (vertex (position 13.97 14.2875) (angle 0.0))
  )
  (hole 80f1fa84-36bb-4b85-afb5-f85a8963dedb (diameter 1.2)
   (stop_mask auto) (lock false)
