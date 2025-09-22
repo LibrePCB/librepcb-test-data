@@ -422,12 +422,12 @@
    )
   )
   (via
-   "via-0.7-0.3-tht"
-   "via-0.7-0.3-tht-exposed"
-   "via-0.7-0.3-tht-exposed:0.2"
-   "via-2.0-1.0-tht"
-   "via-2.0-1.0-tht-exposed"
-   "via-2.0-1.0-tht-exposed:0.2"
+   "via-0.3-0.7-auto-tht-exposed"
+   "via-0.3-0.7-tht"
+   "via-0.3-0.7-tht-exposed:0.2"
+   "via-1.0-2.0-tht"
+   "via-1.0-2.0-tht-exposed"
+   "via-1.0-2.0-tht-exposed:0.2"
   )
   (rule
    (width 0.2)
@@ -1074,32 +1074,32 @@
    (shape (path top_cu 1.0 -0.5 0.0 0.5 0.0))
    (attach off)
   )
-  (padstack "via-0.7-0.3-tht"
+  (padstack "via-0.3-0.7-auto-tht-exposed"
    (shape (circle top_cu 0.7))
    (shape (circle bot_cu 0.7))
    (attach off)
   )
-  (padstack "via-0.7-0.3-tht-exposed"
+  (padstack "via-0.3-0.7-tht"
    (shape (circle top_cu 0.7))
    (shape (circle bot_cu 0.7))
    (attach off)
   )
-  (padstack "via-0.7-0.3-tht-exposed:0.2"
+  (padstack "via-0.3-0.7-tht-exposed:0.2"
    (shape (circle top_cu 0.7))
    (shape (circle bot_cu 0.7))
    (attach off)
   )
-  (padstack "via-2.0-1.0-tht"
+  (padstack "via-1.0-2.0-tht"
    (shape (circle top_cu 2.0))
    (shape (circle bot_cu 2.0))
    (attach off)
   )
-  (padstack "via-2.0-1.0-tht-exposed"
+  (padstack "via-1.0-2.0-tht-exposed"
    (shape (circle top_cu 2.0))
    (shape (circle bot_cu 2.0))
    (attach off)
   )
-  (padstack "via-2.0-1.0-tht-exposed:0.2"
+  (padstack "via-1.0-2.0-tht-exposed:0.2"
    (shape (circle top_cu 2.0))
    (shape (circle bot_cu 2.0))
    (attach off)
@@ -1178,11 +1178,11 @@
   (wire (path bot_cu 0.5 14.0 32.0 14.0 33.0) (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818") (type route))
   (wire (path bot_cu 0.5 13.0 34.0 14.0 33.0) (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818") (type route))
   (wire (path bot_cu 0.5 11.0 34.0 10.0 33.0) (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818") (type route))
-  (via "via-2.0-1.0-tht-exposed:0.2" 16.0 46.0 (net "GND") (type route))
-  (via "via-0.7-0.3-tht-exposed:0.2" 18.0 32.0 (net "~anonymous~a3d1b6db-e421-4ceb-8665-61cb22257f45") (type route))
-  (via "via-2.0-1.0-tht-exposed" 20.0 46.0 (net "GND") (type route))
-  (via "via-2.0-1.0-tht" 12.0 46.0 (net "GND") (type route))
-  (via "via-0.7-0.3-tht-exposed" 14.0 32.0 (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818") (type route))
-  (via "via-0.7-0.3-tht" 10.0 32.0 (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818") (type route))
+  (via "via-1.0-2.0-tht-exposed:0.2" 16.0 46.0 (net "GND") (type route))
+  (via "via-0.3-0.7-tht-exposed:0.2" 18.0 32.0 (net "~anonymous~a3d1b6db-e421-4ceb-8665-61cb22257f45") (type route))
+  (via "via-1.0-2.0-tht-exposed" 20.0 46.0 (net "GND") (type route))
+  (via "via-1.0-2.0-tht" 12.0 46.0 (net "GND") (type route))
+  (via "via-0.3-0.7-auto-tht-exposed" 14.0 32.0 (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818") (type route))
+  (via "via-0.3-0.7-tht" 10.0 32.0 (net "~anonymous~ff0452aa-868e-4d48-afb2-629cb3fc9818") (type route))
  )
 )

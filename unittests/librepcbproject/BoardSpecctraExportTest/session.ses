@@ -18,7 +18,7 @@
       (host_version 0)
     )
     (library_out 
-      (padstack "via-2.0-1.0-tht"
+      (padstack "via-1.0-2.0-tht"
         (shape
           (circle top_cu 2000000 0 0)
         )
@@ -30,7 +30,7 @@
     )
     (network_out 
       (net GND
-        (via "via-2.0-1.0-tht" 12000000 46000000
+        (via "via-1.0-2.0-tht" 12000000 46000000
           (type protect)
         )
         (wire
@@ -44,10 +44,10 @@
           )
           (type protect)
         )
-        (via "via-2.0-1.0-tht" 20000000 46000000
+        (via "via-1.0-2.0-tht" 20000000 46000000
           (type protect)
         )
-        (via "via-2.0-1.0-tht" 16000000 46000000
+        (via "via-1.0-2.0-tht" 16000000 46000000
           (type protect)
         )
       )
