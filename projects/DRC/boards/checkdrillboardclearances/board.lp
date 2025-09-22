@@ -93,7 +93,7 @@
  (netsegment 2f10767c-ab27-48cf-a093-458804f69125
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via a5559005-c024-4756-81b8-a91327aea7a6 (from top_cu) (to bot_cu)
-   (position 0.9525 18.0975) (size 1.0) (drill 0.5) (exposure off)
+   (position 0.9525 18.0975) (drill 0.5) (size 1.0) (exposure off)
   )
  )
  (netsegment d1f73331-9cc2-4531-9664-6d13517dd8d3

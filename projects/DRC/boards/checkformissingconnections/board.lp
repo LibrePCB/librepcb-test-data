@@ -189,13 +189,13 @@
  (netsegment 6b0e2786-1cee-41e7-9c9a-2b34fa74c1f5
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via 0ce821d1-46f4-4b21-842e-c194e5ed4c1b (from top_cu) (to bot_cu)
-   (position 8.255 5.715) (size 0.7) (drill 0.3) (exposure off)
+   (position 8.255 5.715) (drill 0.3) (size 0.7) (exposure off)
   )
  )
  (netsegment 769e2981-452f-4792-9a4e-ca29db348741
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via 01a8e76a-6b79-4a07-a22e-6df5cb95ed06 (from top_cu) (to bot_cu)
-   (position 19.3675 21.59) (size 0.7) (drill 0.3) (exposure off)
+   (position 19.3675 21.59) (drill 0.3) (size 0.7) (exposure off)
   )
  )
  (polygon 91c94cdc-90c6-4188-8818-64aaa2edd235 (layer brd_outlines)

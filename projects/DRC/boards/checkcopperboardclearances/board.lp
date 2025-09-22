@@ -138,7 +138,7 @@
  (netsegment 3249ec88-93a5-4d26-8cc1-67817a30e419
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via 3122bae9-3467-47d0-8141-e0066d1754c9 (from top_cu) (to bot_cu)
-   (position 1.27 23.495) (size 1.8) (drill 0.3) (exposure off)
+   (position 1.27 23.495) (drill 0.3) (size 1.8) (exposure off)
   )
  )
  (netsegment 48cb10a1-2923-4535-9b5d-df7b9239f3a4
@@ -153,7 +153,7 @@
  (netsegment 6fc289e4-e720-49d1-81f2-479cd1d7b008
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via 06c46ae1-6536-4aa0-9085-86db2f39b875 (from top_cu) (to bot_cu)
-   (position 21.59 20.32) (size 3.0) (drill 0.3) (exposure off)
+   (position 21.59 20.32) (drill 0.3) (size 3.0) (exposure off)
   )
  )
  (netsegment 79d4fa8b-f110-417b-86a1-82635e6033fd

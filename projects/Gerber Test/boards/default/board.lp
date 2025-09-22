@@ -130,7 +130,7 @@
  (netsegment 47253560-ce04-43e1-98b1-f98d1609f44e
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
   (via a06f5e1b-37d1-4d5b-aedd-9d8036563ebd (from top_cu) (to bot_cu)
-   (position 16.0 46.0) (size 2.0) (drill 1.0) (exposure 0.2)
+   (position 16.0 46.0) (drill 1.0) (size 2.0) (exposure 0.2)
   )
  )
  (netsegment 5a1debc4-bcb2-4524-8132-98c5d45ac12e
@@ -144,7 +144,7 @@
  (netsegment a3d1b6db-e421-4ceb-8665-61cb22257f45
   (net none)
   (via 516b6292-f8fb-40bc-b58b-267a12167405 (from top_cu) (to bot_cu)
-   (position 18.0 32.0) (size 0.7) (drill 0.3) (exposure 0.2)
+   (position 18.0 32.0) (drill 0.3) (size 0.7) (exposure 0.2)
   )
  )
  (netsegment af9ad1b3-efd6-48ed-9fa2-2561bc982669
@@ -177,7 +177,7 @@
  (netsegment b01f2706-c983-4c8e-bc1a-89989c84f30a
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
   (via 329fbf7f-b35c-475e-8bb5-a6de3366bac8 (from top_cu) (to bot_cu)
-   (position 20.0 46.0) (size 2.0) (drill 1.0) (exposure auto)
+   (position 20.0 46.0) (drill 1.0) (size 2.0) (exposure auto)
   )
   (junction 06886bca-965b-4ce7-adf5-3430ac34a0a9 (position 20.0 51.0))
   (junction 3b79382f-68a2-493f-8285-61ce19b0fd4b (position 57.812955 47.187045))
@@ -218,7 +218,7 @@
  (netsegment ded1a2a9-96dc-4a52-a361-f0f8ae7a7eba
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
   (via 2c2f0e85-ee80-434b-b4e9-77bbe97e96f8 (from top_cu) (to bot_cu)
-   (position 12.0 46.0) (size 2.0) (drill 1.0) (exposure off)
+   (position 12.0 46.0) (drill 1.0) (size 2.0) (exposure off)
   )
  )
  (netsegment eb5786fe-08e7-4a09-a546-dbb72a9c4839
@@ -232,10 +232,10 @@
  (netsegment ff0452aa-868e-4d48-afb2-629cb3fc9818
   (net none)
   (via 5f2540c6-eecb-45fb-8b18-c90218813ca2 (from top_cu) (to bot_cu)
-   (position 14.0 32.0) (size 0.7) (drill 0.3) (exposure auto)
+   (position 14.0 32.0) (drill 0.3) (size 0.7) (exposure auto)
   )
   (via ea01a0e4-bc9a-4a3d-9287-c075b9e592c6 (from top_cu) (to bot_cu)
-   (position 10.0 32.0) (size 0.7) (drill 0.3) (exposure off)
+   (position 10.0 32.0) (drill 0.3) (size 0.7) (exposure off)
   )
   (junction 75f0dad8-9d2a-4daf-bf1a-7bd4efc13e93 (position 11.0 34.0))
   (junction d6e3581f-35a0-4c9d-af25-c10ccde27e1a (position 13.0 34.0))

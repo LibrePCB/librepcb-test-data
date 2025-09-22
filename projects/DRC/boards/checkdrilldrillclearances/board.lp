@@ -160,7 +160,7 @@
  (netsegment d80853b8-febf-4d4e-88bd-44cdc920941e
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via cfa6f1dd-09ca-47a3-bfb8-4c8f80e6313a (from top_cu) (to bot_cu)
-   (position 14.2875 12.3825) (size 1.0) (drill 0.5) (exposure off)
+   (position 14.2875 12.3825) (drill 0.5) (size 1.0) (exposure off)
   )
  )
  (netsegment e8f1d323-62bf-4ad6-b6cb-9faf0a1a91a3

@@ -115,7 +115,7 @@
  (netsegment abb7c7e6-0517-4ca5-9edd-bf163536c519
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (via 7f11019a-c12a-4b5b-8e93-8fafe68e251b (from top_cu) (to bot_cu)
-   (position 12.7 14.605) (size 0.7) (drill 0.3) (exposure off)
+   (position 12.7 14.605) (drill 0.3) (size 0.7) (exposure off)
   )
  )
  (polygon a72363e4-a7a7-4c22-a690-14e0a5492922 (layer brd_outlines)
