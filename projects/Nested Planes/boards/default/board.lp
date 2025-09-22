@@ -307,6 +307,12 @@
    (lock false)
   )
  )
+ (netsegment 8bb82246-e593-4b32-b5ca-428162d44bf7
+  (net 7897de49-ea8f-4ca2-b899-b97aa81e7ccc)
+  (via 1c19e7d3-2fd1-4c6a-90a7-c1dc4c726eaa (from top_cu) (to bot_cu)
+   (position 44.0 17.0) (drill 2.0) (size auto) (exposure auto)
+  )
+ )
  (netsegment 8ddd5b2a-5b00-4111-90ff-e03abd9770a2
   (net 86cdf30c-0cc3-4dcb-a770-614041fb1dfc)
   (via ef802bf5-9b55-4ff0-b012-bee852470506 (from top_cu) (to bot_cu)
@@ -400,7 +406,7 @@
  (netsegment ebfcf75c-15d1-4c48-9254-d1e16afa26b2
   (net 86cdf30c-0cc3-4dcb-a770-614041fb1dfc)
   (via 56dd85a4-90b9-423b-80d8-8f477cc64237 (from top_cu) (to bot_cu)
-   (position 88.0 60.0) (drill 1.0) (size 2.0) (exposure auto)
+   (position 88.0 60.0) (drill 1.0) (size auto) (exposure auto)
   )
  )
  (netsegment f1880781-9dad-4870-9660-356f8a08213f

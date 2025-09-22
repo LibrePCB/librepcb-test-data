@@ -232,7 +232,7 @@
  (netsegment ff0452aa-868e-4d48-afb2-629cb3fc9818
   (net none)
   (via 5f2540c6-eecb-45fb-8b18-c90218813ca2 (from top_cu) (to bot_cu)
-   (position 14.0 32.0) (drill 0.3) (size 0.7) (exposure auto)
+   (position 14.0 32.0) (drill 0.3) (size auto) (exposure auto)
   )
   (via ea01a0e4-bc9a-4a3d-9287-c075b9e592c6 (from top_cu) (to bot_cu)
    (position 10.0 32.0) (drill 0.3) (size 0.7) (exposure off)
