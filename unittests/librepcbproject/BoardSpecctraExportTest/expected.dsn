@@ -168,6 +168,14 @@
     -90.0 -24.0
    )
   )
+  (plane "FOO"
+   (polygon top_cu 0.0
+    90.0 72.0
+    99.0 72.0
+    99.0 63.0
+    90.0 63.0
+   )
+  )
   (plane "N3"
    (polygon top_cu 0.0
     30.0 41.0
@@ -314,6 +322,9 @@
   )
   (keepout "hole:5b218fd7-b09d-4b4d-921a-1f33e9b39cb6"
    (circle signal 2.4 -20.0 44.0)
+  )
+  (keepout "hole:7ea0bde4-a6d8-42a0-9b68-f9c2fecd59d6"
+   (circle signal 1.4 92.0 70.0)
   )
   (keepout "hole:999956c8-3d82-40e2-a97f-cddd9e130415"
    (path signal 2.0
