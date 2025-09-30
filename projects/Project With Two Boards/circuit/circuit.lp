@@ -4,5 +4,6 @@
  )
  (netclass f8dbd27a-75e6-43d4-aa5f-7f3ede446ef8 (name "default")
   (default_trace_width inherit)
+  (default_via_drill_diameter inherit)
  )
 )

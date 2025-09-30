@@ -4,6 +4,7 @@
  )
  (netclass cadb55a5-c22c-43ba-964e-dcba46d899ad (name "default")
   (default_trace_width inherit)
+  (default_via_drill_diameter inherit)
  )
  (net 09687846-056d-4953-8bd3-402dad65bc9f (auto false) (name "GND")
   (netclass cadb55a5-c22c-43ba-964e-dcba46d899ad)

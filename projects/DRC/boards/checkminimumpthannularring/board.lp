@@ -10,6 +10,7 @@
  (silkscreen_layers_bot bot_legend bot_names)
  (design_rules
   (default_trace_width 0.5)
+  (default_via_drill_diameter 0.3)
   (stopmask_max_via_drill_diameter 0.5)
   (stopmask_clearance (ratio 0.0) (min 0.1) (max 0.1))
   (solderpaste_clearance (ratio 0.1) (min 0.0) (max 1.0))

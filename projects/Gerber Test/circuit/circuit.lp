@@ -4,6 +4,7 @@
  )
  (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d (name "default")
   (default_trace_width inherit)
+  (default_via_drill_diameter inherit)
  )
  (net 4f54beab-a0ae-4532-9e88-cf2928c534a3 (auto false) (name "FOO")
   (netclass 6e1c60e6-bcc3-4a01-a972-b3d35e66875d)
