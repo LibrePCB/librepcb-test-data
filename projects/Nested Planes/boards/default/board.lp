@@ -177,6 +177,12 @@
    (position 25.0 74.0) (drill 1.0) (size 2.0) (exposure auto)
   )
  )
+ (netsegment 0a268721-bdd5-4941-80e0-3fea5edc3653
+  (net a81e9d7a-40be-45da-bffb-fa0acaeb91c5)
+  (via 2155e775-7f5c-4351-b0b8-815de071078c (from top_cu) (to bot_cu)
+   (position 67.0 39.0) (drill 0.6) (size 2.0) (exposure off)
+  )
+ )
  (netsegment 0b5f9b45-a79b-4e11-820f-254b263fa926
   (net 7897de49-ea8f-4ca2-b899-b97aa81e7ccc)
   (via 323968a8-edc6-4625-a8d9-74366d84396f (from top_cu) (to bot_cu)
@@ -264,6 +270,12 @@
   (net 7897de49-ea8f-4ca2-b899-b97aa81e7ccc)
   (via 204e2398-264a-4927-afa6-2f9a5a1032f0 (from top_cu) (to bot_cu)
    (position 69.0 92.0) (drill 1.0) (size 2.0) (exposure auto)
+  )
+ )
+ (netsegment 6512ab8f-b56a-43e6-a721-696377dfeef2
+  (net a81e9d7a-40be-45da-bffb-fa0acaeb91c5)
+  (via 9773fd20-b3b4-4fbf-bd22-539e0b9f5943 (from top_cu) (to bot_cu)
+   (position 61.0 39.0) (drill 0.5) (size auto) (exposure off)
   )
  )
  (netsegment 678396c7-8320-457d-a760-e04527186f5f
@@ -379,6 +391,12 @@
   (net 7897de49-ea8f-4ca2-b899-b97aa81e7ccc)
   (via e858d5c0-b597-43d7-a909-b44beffba3b8 (from top_cu) (to bot_cu)
    (position 64.0 88.0) (drill 1.0) (size 2.0) (exposure auto)
+  )
+ )
+ (netsegment cee3731d-d0c0-4e65-80d4-bf77dbc4c793
+  (net a81e9d7a-40be-45da-bffb-fa0acaeb91c5)
+  (via 5f9656f3-a43a-4906-a140-5821f9f8c2af (from top_cu) (to bot_cu)
+   (position 55.0 39.0) (drill auto) (size auto) (exposure off)
   )
  )
  (netsegment d6aab0e8-d7ad-4cf4-a04a-eb1190c0c6c8

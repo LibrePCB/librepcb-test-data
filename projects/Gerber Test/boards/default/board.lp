@@ -109,6 +109,12 @@
    (lock false)
   )
  )
+ (netsegment 105d39f4-0eac-4a5d-a204-7edac1da666e
+  (net e8d073d9-5595-47d4-b821-32bb008d38af)
+  (via cd8525c4-e726-44a0-b0a5-76802f328393 (from top_cu) (to bot_cu)
+   (position 20.0 42.0) (drill auto) (size auto) (exposure off)
+  )
+ )
  (netsegment 2117a572-b11f-4e5c-b179-fdcae978d3da
   (net none)
   (pad 9ed1fb06-bd15-4262-8f00-5ea222aebd68 (side top) (shape roundrect)
@@ -129,6 +135,12 @@
    (lock false)
   )
  )
+ (netsegment 3ba615c5-b9f1-4f66-8465-b1bda34ab130
+  (net e8d073d9-5595-47d4-b821-32bb008d38af)
+  (via 7424360a-e1b5-4029-931c-092440af513c (from top_cu) (to bot_cu)
+   (position 12.0 42.0) (drill 0.4) (size 0.7) (exposure auto)
+  )
+ )
  (netsegment 47253560-ce04-43e1-98b1-f98d1609f44e
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
   (via a06f5e1b-37d1-4d5b-aedd-9d8036563ebd (from top_cu) (to bot_cu)
@@ -141,6 +153,18 @@
    (position 90.0 28.0) (rotation 0.0) (size 0.7 0.7) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function test)
    (lock false)
+  )
+ )
+ (netsegment 5eb36503-3895-4cdf-aca3-f95bf15d6d74
+  (net e8d073d9-5595-47d4-b821-32bb008d38af)
+  (via 0e1231b2-6f35-48c4-910a-dcc235e15b37 (from top_cu) (to bot_cu)
+   (position 16.0 42.0) (drill 0.4) (size auto) (exposure 0.2)
+  )
+ )
+ (netsegment 949157f4-d052-4e94-8e22-73a3518a1b61
+  (net 7206f5f5-6a05-4801-8fbb-61335a458975)
+  (via cc2518b1-9921-4e8c-833a-f06c2c6ce6d6 (from top_cu) (to bot_cu)
+   (position 10.0 44.0) (drill 0.4) (size 0.7) (exposure off)
   )
  )
  (netsegment a3d1b6db-e421-4ceb-8665-61cb22257f45
@@ -217,10 +241,22 @@
    )
   )
  )
+ (netsegment c55cf061-d548-4d65-b29b-fc7fec04a120
+  (net 7206f5f5-6a05-4801-8fbb-61335a458975)
+  (via f8f1bc16-e67e-4484-8107-a0a4583abcc8 (from top_cu) (to bot_cu)
+   (position 14.0 44.0) (drill 0.4) (size auto) (exposure 0.2)
+  )
+ )
  (netsegment ded1a2a9-96dc-4a52-a361-f0f8ae7a7eba
   (net 7206f5f5-6a05-4801-8fbb-61335a458975)
   (via 2c2f0e85-ee80-434b-b4e9-77bbe97e96f8 (from top_cu) (to bot_cu)
    (position 12.0 46.0) (drill 1.0) (size 2.0) (exposure off)
+  )
+ )
+ (netsegment e3b3e60c-9bd0-4eb7-bb2e-c67a1be4f29b
+  (net 7206f5f5-6a05-4801-8fbb-61335a458975)
+  (via 9e2fdc66-cf4f-462a-a074-7434dd10a556 (from top_cu) (to bot_cu)
+   (position 18.0 44.0) (drill auto) (size auto) (exposure auto)
   )
  )
  (netsegment eb5786fe-08e7-4a09-a546-dbb72a9c4839

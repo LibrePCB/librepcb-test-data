@@ -194,6 +194,18 @@
    (position 27.94 5.08) (rotation 0.0) (mirror false)
   )
  )
+ (netsegment de12e546-7e95-4b50-8415-b46530fb9a24
+  (net a81e9d7a-40be-45da-bffb-fa0acaeb91c5)
+  (junction 25b5ac04-739a-4cc4-842a-3a336469a5d7 (position 17.78 30.48))
+  (junction f263ba19-25b2-4450-ad31-606734a157e1 (position 22.86 30.48))
+  (line 4976b0ef-ce78-4eb8-8c23-9813694bfab1 (width 0.15875)
+   (from (junction 25b5ac04-739a-4cc4-842a-3a336469a5d7))
+   (to (junction f263ba19-25b2-4450-ad31-606734a157e1))
+  )
+  (label e1adb260-33f7-4823-86d4-6d81fbc148c0
+   (position 17.78 30.48) (rotation 0.0) (mirror false)
+  )
+ )
  (netsegment fcd99814-7afa-4a7f-aefb-4e3418684c88
   (net 693ca327-06b3-4b22-98a3-1de2d808e8c3)
   (junction f9c49dad-ab1f-4342-a1b8-2d94a58ebd81 (position 10.16 20.32))
