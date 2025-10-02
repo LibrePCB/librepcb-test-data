@@ -300,6 +300,16 @@
     (pad 05e0e1d9-dad4-4467-8651-7fdaf826305f)
    )
    (object
+    (netsegment 3de28754-7d10-4be8-bf3b-be73e77642f2)
+    (via 0e069042-3d35-4fa3-bdaf-31f397111d0f)
+   )
+  )
+  (approved copper_clearance_violation
+   (object
+    (device 04e73acd-9b37-4f70-86bb-b21acdf23c49)
+    (pad 05e0e1d9-dad4-4467-8651-7fdaf826305f)
+   )
+   (object
     (netsegment e5384d57-624b-46cb-bf03-50d5a7221e7b)
     (pad c303e0df-0e6f-4c54-83c1-baf0da427233)
    )
@@ -332,6 +342,16 @@
    (object
     (netsegment 8ae93639-323b-447b-9465-9f3a3e519a0b)
     (via 767bf148-e753-4ba1-be58-e30f0d59cf15)
+   )
+  )
+  (approved copper_clearance_violation
+   (object
+    (device 04e73acd-9b37-4f70-86bb-b21acdf23c49)
+    (stroke_text d112a146-205d-4811-a985-ea59cb2ff70e)
+   )
+   (object
+    (netsegment 3de28754-7d10-4be8-bf3b-be73e77642f2)
+    (via 0e069042-3d35-4fa3-bdaf-31f397111d0f)
    )
   )
   (approved copper_clearance_violation
@@ -410,6 +430,16 @@
     (pad faea4cc8-c85b-4796-90b7-1d1facff3d40)
    )
    (object
+    (netsegment 3de28754-7d10-4be8-bf3b-be73e77642f2)
+    (via 0e069042-3d35-4fa3-bdaf-31f397111d0f)
+   )
+  )
+  (approved copper_clearance_violation
+   (object
+    (netsegment 278af4dc-3a75-47da-a027-fc7312e167a1)
+    (pad faea4cc8-c85b-4796-90b7-1d1facff3d40)
+   )
+   (object
     (netsegment cf778405-a8c5-4147-85c6-417c417e7ea7)
     (via e27cc3f6-c0d4-4ea3-9943-a367ed72a37e)
    )
@@ -432,6 +462,36 @@
    (object
     (netsegment 54f4d728-ac40-403a-90c1-eee462110685)
     (via 0bd7ca3f-776e-44ee-b12c-490de8c2030d)
+   )
+  )
+  (approved copper_clearance_violation
+   (object
+    (netsegment 3de28754-7d10-4be8-bf3b-be73e77642f2)
+    (via 0e069042-3d35-4fa3-bdaf-31f397111d0f)
+   )
+   (object
+    (netsegment cf778405-a8c5-4147-85c6-417c417e7ea7)
+    (via e27cc3f6-c0d4-4ea3-9943-a367ed72a37e)
+   )
+  )
+  (approved copper_clearance_violation
+   (object
+    (netsegment 3de28754-7d10-4be8-bf3b-be73e77642f2)
+    (via 0e069042-3d35-4fa3-bdaf-31f397111d0f)
+   )
+   (object
+    (netsegment dd585822-179f-42fd-84f4-85f57bc3c7c5)
+    (trace 4a75c4c4-1ab7-4fb2-9206-4f3a98ee5d52)
+   )
+  )
+  (approved copper_clearance_violation
+   (object
+    (netsegment 3de28754-7d10-4be8-bf3b-be73e77642f2)
+    (via 0e069042-3d35-4fa3-bdaf-31f397111d0f)
+   )
+   (object
+    (netsegment e5384d57-624b-46cb-bf03-50d5a7221e7b)
+    (pad c303e0df-0e6f-4c54-83c1-baf0da427233)
    )
   )
   (approved copper_clearance_violation
@@ -710,6 +770,12 @@
   (net 13f66ff4-ef21-42fa-8e29-e10e3ebf3ae3)
   (via 9db0fa67-9477-4370-b5e0-c9af7695a6cb (from top_cu) (to bot_cu)
    (position 4.445 22.86) (drill 0.3) (size 0.7) (exposure off)
+  )
+ )
+ (netsegment 3de28754-7d10-4be8-bf3b-be73e77642f2
+  (net f1ef7c52-1486-4212-9885-aa657162008d)
+  (via 0e069042-3d35-4fa3-bdaf-31f397111d0f (from top_cu) (to bot_cu)
+   (position 23.495 22.86) (drill 1.2) (size auto) (exposure off)
   )
  )
  (netsegment 3f203247-fb11-4504-bd93-98726f1c02e8
@@ -1605,6 +1671,11 @@
   (height 1.2) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
   (align center center) (position 22.86 6.35) (rotation 270.0)
   (auto_rotate true) (mirror false) (lock false) (value "T")
+ )
+ (stroke_text 301b4d3a-6a76-4410-bc82-a7ecb815e5b7 (layer brd_documentation)
+  (height 0.5) (stroke_width 0.1) (letter_spacing auto) (line_spacing auto)
+  (align center bottom) (position 23.495 24.13) (rotation 0.0)
+  (auto_rotate true) (mirror false) (lock false) (value "custom\nclearance")
  )
  (stroke_text 4d3d6885-01c3-4c95-a52d-d97738ec2abb (layer top_cu)
   (height 1.5) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)

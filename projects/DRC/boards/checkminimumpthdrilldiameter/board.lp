@@ -44,6 +44,10 @@
    (hole f4927450-0812-40f2-98ee-137bc39db524)
   )
   (approved minimum_drill_diameter_violation
+   (netsegment 083e74f8-8038-4680-8cbb-144c8189c10d)
+   (via f19fde19-94c2-47e7-b33c-2475cb772925)
+  )
+  (approved minimum_drill_diameter_violation
    (netsegment 69bee160-3b5c-4073-905f-fa13f1a1d845)
    (via 9b6933b7-7c84-4656-86a1-3377f24b10c5)
   )
@@ -89,6 +93,12 @@
    (auto_rotate true) (mirror false) (lock false) (value "{{VALUE}}")
   )
  )
+ (netsegment 083e74f8-8038-4680-8cbb-144c8189c10d
+  (net f1ef7c52-1486-4212-9885-aa657162008d)
+  (via f19fde19-94c2-47e7-b33c-2475cb772925 (from top_cu) (to bot_cu)
+   (position 22.5425 22.225) (drill 1.0) (size auto) (exposure off)
+  )
+ )
  (netsegment 12f16f06-6eda-49cc-a165-86b988ad03e3
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (pad cee090b0-b002-4755-9988-3f774afc3bbd (side top) (shape roundrect)
@@ -125,6 +135,11 @@
   (vertex (position 26.67 26.67) (angle 0.0))
   (vertex (position 0.0 26.67) (angle 0.0))
   (vertex (position 0.0 0.0) (angle 0.0))
+ )
+ (stroke_text 231a2f00-85e6-4429-865e-442eb66ffdf3 (layer brd_documentation)
+  (height 0.5) (stroke_width 0.1) (letter_spacing auto) (line_spacing auto)
+  (align center bottom) (position 22.5425 24.13) (rotation 0.0)
+  (auto_rotate true) (mirror false) (lock false) (value "custom\nminimum drill")
  )
  (hole 2b415253-3415-47e2-be0b-5abb38964451 (diameter 1.0)
   (stop_mask auto) (lock false)
