@@ -10,6 +10,7 @@
  (category 1d2630f1-c375-49f0-a0dc-2446735d82f4)
  (assembly_type none)
  (grid_interval 2.54)
+ (min_copper_clearance 0.2)
  (pad 0cad6da9-64bb-4ce3-8515-50f48f5a72a4 (name "1"))
  (footprint 98f087c0-587f-4bf2-8eb7-9827578a112a
   (name "SMT 2mm")

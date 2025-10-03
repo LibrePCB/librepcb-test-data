@@ -10,6 +10,7 @@
  (category a20f0330-06d3-4bc2-a1fa-f8577deb6770)
  (assembly_type auto)
  (grid_interval 2.54)
+ (min_copper_clearance 0.2)
  (pad 19d59886-4023-49c0-acbb-350b25cbe189 (name "2"))
  (pad 32c77de5-94f0-4ac9-80da-4675d91d7916 (name "1"))
  (footprint 95e55ff1-3db6-46b2-8319-0d0a7420d15f

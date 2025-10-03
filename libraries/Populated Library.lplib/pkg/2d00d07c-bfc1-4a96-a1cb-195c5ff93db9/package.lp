@@ -10,6 +10,7 @@
  (category a20f0330-06d3-4bc2-a1fa-f8577deb6770)
  (assembly_type smt)
  (grid_interval 2.54)
+ (min_copper_clearance 0.2)
  (pad af8c5acf-1aca-4567-90cf-1de3ecb6f642 (name "1"))
  (pad 79ee45af-e972-4d1d-8866-88585eb544f9 (name "2"))
  (3d_model 70a52ef3-ce4d-480a-a79b-5929f52ddf44 (name "RESC2012 (0805)"))

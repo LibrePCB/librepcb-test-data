@@ -10,6 +10,7 @@
  (category a20f0330-06d3-4bc2-a1fa-f8577deb6770)
  (assembly_type smt)
  (grid_interval 2.54)
+ (min_copper_clearance 0.2)
  (pad ad768910-1573-409f-81d4-d4c7692ab494 (name "1"))
  (pad 65ab6c75-b264-4fed-b445-d3d98c956008 (name "2"))
  (3d_model 2d9f20e6-c3dc-422c-ae1e-e278f6ae8328 (name "RESC1608 (0603)"))
