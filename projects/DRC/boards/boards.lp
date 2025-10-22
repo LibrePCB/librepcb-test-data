@@ -23,6 +23,7 @@
  (board "boards/checkdeviceclearances/board.lp")
  (board "boards/checkboardoutline/board.lp")
  (board "boards/checkboardoutline2/board.lp")
+ (board "boards/checkboardcutouts/board.lp")
  (board "boards/checkusedlayers/board.lp")
  (board "boards/checkforunplacedcomponents/board.lp")
  (board "boards/checkformissingconnections/board.lp")

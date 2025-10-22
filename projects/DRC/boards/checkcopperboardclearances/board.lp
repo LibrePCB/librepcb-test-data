@@ -100,6 +100,9 @@
   (approved copper_board_clearance_violation
    (stroke_text 4bf688f7-6358-4832-8cfa-34b93cb01c4c)
   )
+  (approved nonplated_cutout_with_copper
+   (polygon a47c1472-ca25-4a1c-93de-236f2cbe277d)
+  )
  )
  (fabrication_output_settings
   (base_path "./output/{{VERSION}}/gerber/{{PROJECT}}")
