@@ -1283,6 +1283,8 @@
   )
  )
  (network
+  (net "N2")
+  (net "DATA0")
   (net "FOO"
    (pins
     D1-94be2710da4d4d9ca3316a76fe8715a0
@@ -1292,11 +1294,14 @@
     BOARD-b068252df794419ba09680b416140b59:9c56dfa4ec5a4692bdddba5f3c4e7e00
    )
   )
+  (net "N1")
   (net "GND"
    (pins
     D2-ddf3ca546dcb4c34a689d82160a98dce
    )
   )
+  (net "N7")
+  (net "N4")
   (net "VCC"
    (pins
     D1-ddf3ca546dcb4c34a689d82160a98dce
@@ -1316,6 +1321,8 @@
     D1-c1b0e36ccc5c494785d095b1d97fb0ab
    )
   )
+  (net "N5")
+  (net "N6")
   (net "~anonymous~0e302f0c-32b6-4412-9be1-10ee8a4ebd8a"
    (pins
     BOARD-0e302f0c32b644129be110ee8a4ebd8a:e3b493da3c744c5fa2d420c7945f1f01
