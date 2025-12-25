@@ -69,6 +69,13 @@
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net none))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net none))
  )
+ (component 202ae8f4-6848-4569-9153-4e02b82ec038
+  (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
+  (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
+  (name "GND3") (value "GND")
+  (lock_assembly false)
+  (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 09687846-056d-4953-8bd3-402dad65bc9f))
+ )
  (component 22cec172-491e-4314-8ec3-eca941ce1ae7
   (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
   (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
@@ -128,6 +135,40 @@
   (device 1f2a25cf-bf64-4ad1-8704-bc2c02718916
   )
   (signal 1971710b-f66e-4a90-9a87-6d1affef5cd0 (net none))
+ )
+ (component b9a51029-61ea-4e5f-8e2b-6f0154379616
+  (lib_component 5c0f6cd9-dced-46ae-8098-6cccaa8726ec)
+  (lib_variant 7b4b843f-818e-41c9-ba73-0a7e21bb3d05)
+  (name "H3") (value "{{DEVICE}}")
+  (lock_assembly false)
+  (device 1e258f9b-d156-419c-a22f-3f26be9b5fa0
+  )
+  (signal c8721bab-6c90-43f6-8135-c32fce7aecc0 (net none))
+ )
+ (component c30a2289-dfac-46b6-9ac7-a8040f8fc353
+  (lib_component 5c0f6cd9-dced-46ae-8098-6cccaa8726ec)
+  (lib_variant 7b4b843f-818e-41c9-ba73-0a7e21bb3d05)
+  (name "H1") (value "{{DEVICE}}")
+  (lock_assembly false)
+  (device 1e258f9b-d156-419c-a22f-3f26be9b5fa0
+  )
+  (signal c8721bab-6c90-43f6-8135-c32fce7aecc0 (net 09687846-056d-4953-8bd3-402dad65bc9f))
+ )
+ (component d7232e62-02bf-46dc-815a-df88b70ff255
+  (lib_component 5c0f6cd9-dced-46ae-8098-6cccaa8726ec)
+  (lib_variant 7b4b843f-818e-41c9-ba73-0a7e21bb3d05)
+  (name "H2") (value "{{DEVICE}}")
+  (lock_assembly false)
+  (device 1e258f9b-d156-419c-a22f-3f26be9b5fa0
+  )
+  (signal c8721bab-6c90-43f6-8135-c32fce7aecc0 (net 09687846-056d-4953-8bd3-402dad65bc9f))
+ )
+ (component ed1b0d38-0855-45c8-9124-3364f967a98c
+  (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
+  (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
+  (name "GND4") (value "GND")
+  (lock_assembly false)
+  (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 09687846-056d-4953-8bd3-402dad65bc9f))
  )
  (component f92dbd96-6b89-4246-a0d3-0ff2049cc303
   (lib_component e2659029-10eb-42f4-af23-41301bb12569)

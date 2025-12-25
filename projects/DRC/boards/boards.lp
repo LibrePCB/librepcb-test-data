@@ -27,4 +27,5 @@
  (board "boards/checkusedlayers/board.lp")
  (board "boards/checkforunplacedcomponents/board.lp")
  (board "boards/checkformissingconnections/board.lp")
+ (board "boards/checkforimpossibleconnections/board.lp")
 )

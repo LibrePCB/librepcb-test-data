@@ -1,5 +1,5 @@
-(librepcb_board 2eb172cc-35c4-4b30-b383-bd79679efa63
- (name "checkForUnplacedComponents")
+(librepcb_board 20c9a1ad-6241-4381-bbeb-f34ef5c759b9
+ (name "checkForImpossibleConnections")
  (default_font "newstroke.bene")
  (grid (interval 0.3175) (unit millimeters))
  (layers (inner 0))
@@ -45,32 +45,9 @@
   (allowed_npth_slots single_segment_straight)
   (allowed_pth_slots single_segment_straight)
   (approvals_version "2")
-  (approved missing_device
-   (device 04e73acd-9b37-4f70-86bb-b21acdf23c49)
-  )
-  (approved missing_device
-   (device 17562ad5-30d8-4d20-890c-4533e46f19c9)
-  )
-  (approved missing_device
-   (device 1f435983-f98f-41a3-a888-05b25923790a)
-  )
-  (approved missing_device
-   (device a5666251-f1a6-4832-8ddf-08a91d292f36)
-  )
-  (approved missing_device
-   (device a6e42095-8d7e-434b-b526-8e510b2b177c)
-  )
-  (approved missing_device
-   (device b6a635fc-f40a-4bef-9627-c7812056020a)
-  )
-  (approved missing_device
-   (device b9a51029-61ea-4e5f-8e2b-6f0154379616)
-  )
-  (approved missing_device
+  (approved impossible_connection
    (device d7232e62-02bf-46dc-815a-df88b70ff255)
-  )
-  (approved missing_device
-   (device f92dbd96-6b89-4246-a0d3-0ff2049cc303)
+   (signal c8721bab-6c90-43f6-8135-c32fce7aecc0)
   )
  )
  (fabrication_output_settings
@@ -93,13 +70,25 @@
   (solderpaste_top (create true) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create true) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
+ (device b9a51029-61ea-4e5f-8e2b-6f0154379616
+  (lib_device 1e258f9b-d156-419c-a22f-3f26be9b5fa0)
+  (lib_footprint 16fb2ac7-cceb-48e4-8a7c-f2b5ddb9c276)
+  (lib_3d_model none)
+  (position 13.335 6.6675) (rotation 0.0) (flip false) (lock false) (glue true)
+ )
  (device c30a2289-dfac-46b6-9ac7-a8040f8fc353
   (lib_device 1e258f9b-d156-419c-a22f-3f26be9b5fa0)
   (lib_footprint 8d6b6f1f-9f66-4194-9918-6633f705881d)
   (lib_3d_model none)
-  (position 13.0175 13.0175) (rotation 0.0) (flip false) (lock false) (glue true)
+  (position 13.335 21.9075) (rotation 0.0) (flip false) (lock false) (glue true)
  )
- (polygon 908b53de-83c6-4a9e-adcf-688f87e8a6c9 (layer brd_outlines)
+ (device d7232e62-02bf-46dc-815a-df88b70ff255
+  (lib_device 1e258f9b-d156-419c-a22f-3f26be9b5fa0)
+  (lib_footprint 16fb2ac7-cceb-48e4-8a7c-f2b5ddb9c276)
+  (lib_3d_model none)
+  (position 13.335 13.97) (rotation 0.0) (flip false) (lock false) (glue true)
+ )
+ (polygon 3149c3ce-815d-4dd3-9def-3ae7d37c46b1 (layer brd_outlines)
   (width 0.0) (fill false) (grab_area false) (lock false)
   (vertex (position 0.0 0.0) (angle 0.0))
   (vertex (position 26.67 0.0) (angle 0.0))
