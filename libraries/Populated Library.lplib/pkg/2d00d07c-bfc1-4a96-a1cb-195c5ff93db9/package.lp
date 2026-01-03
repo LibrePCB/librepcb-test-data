@@ -17,6 +17,7 @@
  (footprint e8596efa-bd51-4063-87aa-a44fa5640576
   (name "Density Level B (median protrusion)")
   (description "")
+  (tag "ipc-density-level-b")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 70a52ef3-ce4d-480a-a79b-5929f52ddf44)
   (pad 79ee45af-e972-4d1d-8866-88585eb544f9 (side top) (shape roundrect)
@@ -94,6 +95,7 @@
  (footprint 75d2f5cb-4920-4f04-a83d-21bd28174f10
   (name "Density Level A (max protrusion)")
   (description "")
+  (tag "ipc-density-level-a")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 70a52ef3-ce4d-480a-a79b-5929f52ddf44)
   (pad 79ee45af-e972-4d1d-8866-88585eb544f9 (side top) (shape roundrect)

@@ -66,6 +66,13 @@
   (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
+ (preferred_footprint_tags
+  (tht_top)
+  (tht_bot)
+  (smt_top)
+  (smt_bot)
+  (common)
+ )
  (device 0b4738db-549d-48ea-8ddd-89f5d7c39f2b
   (lib_device 79eb53e3-c7a6-4244-9047-51e42bdae9b9)
   (lib_footprint 563d94d0-c247-496f-9686-207d14c8c660)

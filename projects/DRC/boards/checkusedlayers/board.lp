@@ -75,6 +75,13 @@
   (solderpaste_top (create true) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create true) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
+ (preferred_footprint_tags
+  (tht_top)
+  (tht_bot)
+  (smt_top)
+  (smt_bot)
+  (common)
+ )
  (netsegment 24c6189f-eb02-4c9f-b8a3-f3259bf0d785
   (net none)
   (junction 0b278459-28f4-46b3-89e4-fc6edece51ff (position 13.97 7.62))

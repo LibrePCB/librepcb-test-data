@@ -72,6 +72,13 @@
   (solderpaste_top (create true) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create true) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
+ (preferred_footprint_tags
+  (tht_top)
+  (tht_bot)
+  (smt_top)
+  (smt_bot)
+  (common)
+ )
  (polygon 63f7d2de-004f-4c78-8b03-451639da5ac3 (layer top_legend)
   (width 0.5) (fill false) (grab_area false) (lock false)
   (vertex (position 8.89 17.78) (angle 0.0))

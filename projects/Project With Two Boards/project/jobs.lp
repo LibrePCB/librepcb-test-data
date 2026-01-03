@@ -5,6 +5,8 @@
    (paper auto) (orientation auto) (rotate false) (mirror false) (scale auto)
    (margins (left 10.0) (top 10.0) (right 10.0) (bottom 10.0))
    (dpi 600) (min_line_width 0.1) (monochrome false) (background "#00000000")
+   (layer schematic_bus_labels (color "#ff008eff"))
+   (layer schematic_buses (color "#ff008eff"))
    (layer schematic_comments (color "#ff000080"))
    (layer schematic_documentation (color "#ff808080"))
    (layer schematic_frames (color "#ff000000"))

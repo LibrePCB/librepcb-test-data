@@ -66,6 +66,13 @@
   (solderpaste_top (create true) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create true) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
+ (preferred_footprint_tags
+  (tht_top "hand-soldering" "extra-large-pads" "ipc-density-level-a" "ipc-density-level-b")
+  (tht_bot "hand-soldering" "extra-large-pads" "ipc-density-level-a" "ipc-density-level-b")
+  (smt_top "reflow-soldering")
+  (smt_bot "reflow-soldering")
+  (common "ipc-density-level-b")
+ )
  (device 2ff8e71f-6827-43fc-bb77-b3811c50493e
   (lib_device 4f5ee784-4b1b-407c-802b-44625163d90f)
   (lib_footprint ba016c66-62a0-431c-ad8f-d92070b663a5)

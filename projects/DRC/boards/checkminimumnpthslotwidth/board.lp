@@ -69,6 +69,13 @@
   (solderpaste_top (create true) (suffix "_SOLDERPASTE-TOP.gbr"))
   (solderpaste_bot (create true) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
+ (preferred_footprint_tags
+  (tht_top)
+  (tht_bot)
+  (smt_top)
+  (smt_bot)
+  (common)
+ )
  (netsegment 938f6cfb-e82d-4c28-90dd-e13e6325fe9c
   (net 09687846-056d-4953-8bd3-402dad65bc9f)
   (pad be5bae04-d2ba-47df-a206-10f1a4afa4f1 (side top) (shape roundrect)
