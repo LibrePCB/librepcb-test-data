@@ -28,4 +28,5 @@
  (board "boards/checkforunplacedcomponents/board.lp")
  (board "boards/checkformissingconnections/board.lp")
  (board "boards/checkforimpossibleconnections/board.lp")
+ (board "boards/checkplanes/board.lp")
 )
