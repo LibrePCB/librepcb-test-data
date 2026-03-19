@@ -2,7 +2,7 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="de" sourcelanguage="en">
 <context>
-    <name>ui::GuiApplicationTest</name>
+    <name>ui::SlintHelpersTest</name>
     <message>
         <source>Untranslated String</source>
         <translation type="unfinished"></translation>
