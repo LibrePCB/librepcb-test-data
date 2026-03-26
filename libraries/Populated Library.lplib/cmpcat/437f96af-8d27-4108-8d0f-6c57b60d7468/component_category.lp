@@ -1,0 +1,11 @@
+(librepcb_component_category 437f96af-8d27-4108-8d0f-6c57b60d7468
+ (name "Endless Recursion")
+ (description "")
+ (keywords "")
+ (author "nobody")
+ (version "0.1")
+ (created 2025-11-19T12:41:44Z)
+ (deprecated false)
+ (parent 437f96af-8d27-4108-8d0f-6c57b60d7468)
+ (approved invalid_parent)
+)
