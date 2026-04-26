@@ -3,4 +3,6 @@
  (api_endpoints
   (endpoint "http://localhost:50080" (libraries true) (parts true) (order true))
  )
+ ; Disable automatic library updates
+ (library_updates check)
 )

@@ -15,7 +15,7 @@
     "default": ""
    },
    "author": "LibrePCB",
-   "version": "0.0.3.10",
+   "version": "0.0.3",
    "deprecated": false,
    "url": "http://localhost:50080/LibrePCB-Libraries/LibrePCB_Base.lplib",
    "dependencies": [],
@@ -45,7 +45,7 @@
     "default": ""
    },
    "author": "LibrePCB",
-   "version": "0.0.1.1",
+   "version": "0.0.1",
    "deprecated": false,
    "url": "http://localhost:50080/LibrePCB_Connectors.lplib",
    "dependencies": [
