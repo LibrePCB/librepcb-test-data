@@ -436,6 +436,7 @@
    "via-0.3-0.7-tht"
    "via-0.3-0.7-tht-exposed:0.2"
    "via-0.3-0.7:auto-tht-exposed"
+   "via-0.3:auto-0.7:auto-tht"
    "via-0.3:auto-0.7:auto-tht-exposed"
    "via-0.4-0.7-tht"
    "via-0.4-0.7-tht-exposed"
@@ -617,13 +618,15 @@
     )
    )
    (pin "pad-6" (rotate 20.0) "01459d8433fc4a81b909b720a0bc3e12" 7.62 22.86)
-   (pin "pad-7" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
-   (pin "pad-8" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
-   (pin "pad-9" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
-   (pin "pad-10" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
-   (pin "pad-11" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
-   (pin "pad-12" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
-   (pin "pad-13" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
+   (pin "pad-7" (rotate 0.0) "1c114dd635bc458b8673ba332a8730ea" 10.16 27.94)
+   (pin "pad-8" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
+   (pin "pad-0" (rotate 0.0) "93b269a9baf9457fb158e2124adf1ea9" 15.24 27.94)
+   (pin "pad-9" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
+   (pin "pad-10" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
+   (pin "pad-11" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
+   (pin "pad-12" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
+   (pin "pad-13" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
+   (pin "pad-14" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
    (keepout "D2:hole:4ab2be01-222a-4f59-b239-e1de803ba96d"
     (circle signal 3.4 2.54 2.54)
    )
@@ -862,13 +865,15 @@
     )
    )
    (pin "pad-6" (rotate 20.0) "01459d8433fc4a81b909b720a0bc3e12" 7.62 22.86)
-   (pin "pad-7" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
-   (pin "pad-8" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
-   (pin "pad-9" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
-   (pin "pad-10" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
-   (pin "pad-11" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
-   (pin "pad-12" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
-   (pin "pad-13" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
+   (pin "pad-7" (rotate 0.0) "1c114dd635bc458b8673ba332a8730ea" 10.16 27.94)
+   (pin "pad-8" (rotate 0.0) "7c19d0bf595440b697ee6df6ffdf5f83" 7.62 27.94)
+   (pin "pad-0" (rotate 0.0) "93b269a9baf9457fb158e2124adf1ea9" 15.24 27.94)
+   (pin "pad-9" (rotate 20.0) "94be2710da4d4d9ca3316a76fe8715a0" 17.78 25.4)
+   (pin "pad-10" (rotate 0.0) "a495cd75e10645a5aa4c612f8d7ac6eb" 17.78 30.48)
+   (pin "pad-11" (rotate 20.0) "c1b0e36ccc5c494785d095b1d97fb0ab" 17.78 22.86)
+   (pin "pad-12" (rotate 0.0) "d70029504d2442bf8aa4f17b2e1e9559" 7.62 30.48)
+   (pin "pad-13" (rotate -20.0) "ddf3ca546dcb4c34a689d82160a98dce" 7.62 25.4)
+   (pin "pad-14" (rotate 90.0) "fa10a1e1880d4f87a242b9b4f73c6cc4" 17.78 27.94)
    (keepout "D1:hole:4ab2be01-222a-4f59-b239-e1de803ba96d"
     (circle signal 3.4 2.54 2.54)
    )
@@ -1134,11 +1139,16 @@
    (attach off)
   )
   (padstack "pad-7"
+   (shape (circle top_cu 1.0))
+   (shape (circle bot_cu 1.0))
+   (attach off)
+  )
+  (padstack "pad-8"
    (shape (rect top_cu -1.27 -0.635 1.27 0.635))
    (shape (rect bot_cu -1.27 -0.635 1.27 0.635))
    (attach off)
   )
-  (padstack "pad-8"
+  (padstack "pad-9"
    (shape (polygon top_cu 0.0
      1.0 0.207107
      0.707107 0.5
@@ -1152,7 +1162,7 @@
     ))
    (attach off)
   )
-  (padstack "pad-9"
+  (padstack "pad-10"
    (shape (polygon top_cu 0.0
      -0.75 0.5
      0.75 0.5
@@ -1178,7 +1188,7 @@
     ))
    (attach off)
   )
-  (padstack "pad-10"
+  (padstack "pad-11"
    (shape (polygon bot_cu 0.0
      1.0 0.207107
      0.707107 0.5
@@ -1192,12 +1202,12 @@
     ))
    (attach off)
   )
-  (padstack "pad-11"
+  (padstack "pad-12"
    (shape (path top_cu 1.27 -0.635 0.0 0.635 0.0))
    (shape (path bot_cu 1.27 -0.635 0.0 0.635 0.0))
    (attach off)
   )
-  (padstack "pad-12"
+  (padstack "pad-13"
    (shape (polygon top_cu 0.0
      1.0 0.914214
      0.414214 1.5
@@ -1222,7 +1232,7 @@
     ))
    (attach off)
   )
-  (padstack "pad-13"
+  (padstack "pad-14"
    (shape (path top_cu 1.0 -0.5 0.0 0.5 0.0))
    (attach off)
   )
@@ -1237,6 +1247,11 @@
    (attach off)
   )
   (padstack "via-0.3-0.7:auto-tht-exposed"
+   (shape (circle top_cu 0.7))
+   (shape (circle bot_cu 0.7))
+   (attach off)
+  )
+  (padstack "via-0.3:auto-0.7:auto-tht"
    (shape (circle top_cu 0.7))
    (shape (circle bot_cu 0.7))
    (attach off)
