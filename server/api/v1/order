@@ -1,0 +1,5 @@
+{
+  "info_url": "http://localhost:50080/api/v1/order/info",
+  "upload_url": "http://localhost:50080/api/v1/order/upload",
+  "max_size": 104857600
+}
