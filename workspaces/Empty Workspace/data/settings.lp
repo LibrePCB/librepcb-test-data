@@ -1,4 +1,6 @@
 (librepcb_workspace_settings
+ ; Use English language to make UI tests deterministic
+ (application_locale "en_US")
  ; Use a local webserver instead of api.librepcb.org to make tests deterministic
  (api_endpoints
   (endpoint "http://localhost:50080" (libraries true) (parts true) (order true))
