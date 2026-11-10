@@ -102,6 +102,23 @@
   (attribute "FIELD_AUTHOR" (type string) (unit none) (value "{{ SCH_FRAME_AUTHOR or AUTHOR }}"))
   (attribute "FIELD_PAGE" (type string) (unit none) (value "{{ SCH_FRAME_PAGE_X_OF_Y or PAGE_X_OF_Y }}"))
  )
+ (component 730d8b95-db14-444b-92f4-e7e993579b34
+  (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
+  (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
+  (name "GND5") (value "GND")
+  (lock_assembly false)
+  (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 09687846-056d-4953-8bd3-402dad65bc9f))
+ )
+ (component 7bdb46e9-e2c8-439c-8db2-5b247fd48060
+  (lib_component 2498b9bc-bfa8-40fd-91c8-19e777e05d27)
+  (lib_variant fb1b07e9-396d-4ae0-b698-73c5bcd37088)
+  (name "ANT1") (value "{{MPN or DEVICE}}")
+  (lock_assembly false)
+  (device bd2dbed8-9e55-4fa5-8c18-f22d99ee0635
+  )
+  (signal f14ed0f5-0e1a-4f3e-9c19-6f1596400613 (net none))
+  (signal fd6941ee-325e-4416-a76b-e29a5e3b6625 (net 09687846-056d-4953-8bd3-402dad65bc9f))
+ )
  (component 9758a35c-0ad8-4606-9234-b9e8d92230e3
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
   (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
